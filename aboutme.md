@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enquête sur une base de données : Francis Lefebvre, base de données juridiques
+title: Enquête sur une base de données -  le cas de Francis Lefebvre
 subtitle: La vie sociale des données
 ---
 
