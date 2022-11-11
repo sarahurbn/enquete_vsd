@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos
+subtitle: Enquête sur une base de données, la vie sociale des données
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nous sommes cinq étudiants en première année à Sciences Po Paris en Master Droit Economique. Dans le cadre de notre cours sur la vie sociale des données, nous avons choisi de travailler sur la base de données juridique Francis Lefebvre.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Nous avons choisi de travailler sur la problématique suivante : 
+INSÉRER PROBLÉMATIQUE PRINCIPALE ICI 
 
-What else do you need?
+Pour ce faire, nous allons répondre à un certain nombre de questions : 
+1.1 - Qui a créé ce jeu de données ?
+1.2 - A quelles fins cette base de données a-t-elle été créée ?
+2 - Quelles catégories sont utilisées pour le représenter ?
+3 - Quels sont les usages de ce jeu de données ?
+4 - Quelles sont les limites ou les critiques rencontrées par ce jeu de données ?
+5 - Quelles réalités ces données sont-ils censés représenter ?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Francis Lefebvre 
+
+METTRE LIEN FRANCIS + HISTORIQUE CAMILLE ICI ?
