@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A propos
-subtitle: Enquête sur une base de données, la vie sociale des données
+title: Enquête sur une base de données : Francis Lefebvre, base de données juridiques
+subtitle: La vie sociale des données
 ---
 
 Nous sommes cinq étudiants en première année à Sciences Po Paris en Master Droit Economique. Dans le cadre de notre cours sur la vie sociale des données, nous avons choisi de travailler sur la base de données juridique Francis Lefebvre.
