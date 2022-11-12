@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enquête sur une base de données -  le cas de Francis Lefebvre
+title: Présentation de notre projet
 subtitle: La vie sociale des données
 ---
 
