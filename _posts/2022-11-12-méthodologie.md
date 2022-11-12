@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Présentation du projet et méthodologie
-subtitle: Each post also has a subtitle
+subtitle: Le cheminement de notre projet et la méthodologie de notre enquête
 tags: [méthodologie]
 cover-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
 thumbnail-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
@@ -20,4 +20,7 @@ Ces différentes sources du droit sont essentielles au travail à la fois des ma
 
 En quoi la base de données Francis Lefebvre transforme t-elle les représentations des données juridiques, et ainsi révèle sa propre conception du travail des juristes ? --> REVOIR PBTQ 
 
+## Notre plan 
 
+
+## Les difficultés rencontrées
