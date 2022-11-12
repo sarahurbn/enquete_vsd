@@ -3,6 +3,9 @@ layout: post
 title: Présentation du projet et méthodologie
 subtitle: Each post also has a subtitle
 tags: [méthodologie]
+cover-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
+thumbnail-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
+share-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
 comments: false
 ---
 
