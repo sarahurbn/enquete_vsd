@@ -4,75 +4,19 @@ title: Présentation du projet et méthodologie
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [méthodologie]
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Nous sommes cinq étudiants en première année à Sciences Po Paris en Master Droit Economique. Dans le cadre de notre cours sur la vie sociale des données avec Dominique Cardon, nous avons étudié les façons dont les représentations de la société se transforment avec le déploiement des données numériques et les techniques d'Intelligence Artificielle. Avec le changement de ces instruments de représentation, il est possible que les instrumentations changent elles-mêmes. Tous étudiants en droit, nous sommes rapidement tombés sur la question de la vie sociale des données juridiques. Ce sujet nous parait particulièrement intéressant, car le travail de tout juriste s'appuie sur des données : les données dans les textes de loi (= les codes), les données descas antérieurs (= la jurisprudence), ou dans les textes de juristes (= la doctrine). 
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+Ces différentes sources du droit sont essentielles au travail à la fois des magistrats et des avocats, ainsi que des juristes d'entreprise etc. Plusieurs bases de données existent regroupant ces données. Nous avons décidé d'analyser la base Francis Lefebvre car .... 
 
-It can also be centered!
+--> mettre graphique ici  
+## Notre problématique
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+En quoi la base de données Francis Lefebvre transforme t-elle les représentations des données juridiques, et ainsi révèle sa propre conception du travail des juristes ? --> REVOIR PBTQ 
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
