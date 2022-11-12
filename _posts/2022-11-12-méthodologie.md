@@ -4,8 +4,8 @@ title: Présentation du projet et méthodologie
 subtitle: Le cheminement de notre projet et la méthodologie de notre enquête
 tags: [méthodologie]
 
-thumbnail-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
-share-img: https://cdn.pixabay.com/photo/2012/04/13/18/27/magnifying-33170_960_720.png
+thumbnail-img: https://cdn.pixabay.com/photo/2020/06/12/03/06/magnifying-glass-5288877_960_720.jpg
+
 comments: false
 ---
 
