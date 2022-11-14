@@ -22,7 +22,8 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 navbar-links:
   L'enquête : "aboutme"
   Qui ?: "parqui"
-  Comment ? : "fiche_technique"
+  Les utilisateurs: "utilisateurs"
+  Organisation de la base de données : "fiche_technique"
   Quelles limites ? : "limites"
   
   
