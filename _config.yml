@@ -20,7 +20,7 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 ###############################################
 
 navbar-links:
-  A propos : "aboutme"
+  L'enquête : "aboutme"
   Qui ?: "parqui"
   Comment ? : "fiche_technique"
   Quelles limites ? : "limites"
