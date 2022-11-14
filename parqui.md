@@ -3,9 +3,7 @@ layout: post
 title: Qui a créé ce jeu de données ?
 subtitle: Pour mieux comprendre la base de données sujette à notre étude, il s'agira d'abord de retracer l'histoire de Francis Lefebvre. 
 cover-img: https://cdn.pixabay.com/photo/2017/08/07/19/07/books-2606859_960_720.jpg
-thumbnail-img: https://cdn.pixabay.com/photo/2017/08/07/19/07/books-2606859_960_720.jpg
-share-img: https://cdn.pixabay.com/photo/2017/08/07/19/07/books-2606859_960_720.jpg
-tags: [histoire, base de données]
+
 ---
 
 Le premier groupe de production des données juridiques a été créé en 1930, à l’issue de la création des Editions Francis Lefebvre. L’objectif était d’élaborer une marque française éditoriale qui permette de centraliser l’ensemble des données juridiques.
