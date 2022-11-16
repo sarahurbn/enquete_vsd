@@ -25,7 +25,9 @@ navbar-links:
     - L'éditeur : "parqui"
     - Les utilisateurs: "utilisateurs"
   La technique: "fiche_technique"
-  Les limites : "limites"
+  Les limites : 
+    - Limites et critiques : "limites"
+    - La concurrence : "startups" 
   
   
   
