@@ -1,17 +1,19 @@
 ---
 layout: page
-title: La concurrence par les start-ups
-subtitle: Les bases de données juridiques sont-elles concurrencées par les start-up de legal tech ? 
+title: Trouver sa place en tant qu’acteur sur le marché des Legaltechs. 
+subtitle: concurrence ou coopération ? 
 cover-img : https://media.istockphoto.com/id/1339007182/fr/photo/règles-de-conformité-avec-les-stratégies-métier.jpg?s=612x612&w=0&k=20&c=h_c8BQXMdkHh2FFW69Ko3yz9S4kGak413bu1KLW-od0=
 ---
 
-L’agrégation de données sur une base de données est une pratique qui remonte aux années 1990. De nos jours, cela ne suffit plus. Il faut non seulement agréger la donnée de manière intelligente (proposer les décisions les plus adéquates, des liens hypertextes vers thématiques ressemblantes…), mais également innover face au marché de Legaltech qui ne cesse de s’accroître.
+**Question : De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? **
+
+L’agrégation de données sur une base de données est une pratique qui remonte aux années 1990. De nos jours, cela ne suffit plus. Il faut non seulement agréger la donnée de manière intelligente (proposer les décisions les plus adéquates, des liens hypertextes vers thématiques ressemblantes…), mais également innover face au marché de Legaltech qui ne cesse de s’accroître. Il convient de se demander de quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
 
 ## Qu’est-ce qu’une Legaltech ? 
 
 Une legaltech peut se définir comme une start-up de droit, innovante, développant des offres de services juridiques dématérialisés. Le but poursuivi par ces legaltechs est d'automatiser le service juridique et donc d'instaurer de cette manière une nouvelle relation entre le client et le professionnel du droit. Ces legaltechs proposent des services juridiques destinés essentiellement aux très petites entreprises, aux entreprises de taille moyenne et aux particuliers. Les services juridiques offerts aux internautes vont de la création de sociétés via la génération de statuts constitutifs personnalisés, à la rédaction de contrats. 
 
-Les legaltechs ont de nombreux atouts, le principal étant la rapidité de la prestation. En un court laps de temps, ces legaltchs peuvent fournir des documents juridiques standardisés adaptés à la demande des utilisateurs grâce à un algorithme.  Notons que le contrôle d’un avocat s’avère nécessaire a posteriori pour les documents issus de ces legaltechs.
+Les legaltechs ont de nombreux atouts, le principal étant la rapidité de la prestation. En un court laps de temps, ces legaltchs peuvent fournir des documents juridiques standardisés adaptés à votre demande grâce à un algorithme.  Notons que le contrôle d’un avocat s’avère nécessaire a posteriori pour les documents issus de ces legaltechs.
 
 
 ## Concurrence ou écosystème ? 
@@ -28,6 +30,9 @@ Ainsi, plus qu’une concurrence, les éditeurs et les legaltechs avancent de pa
 
 **Olivier Campenon, président du directoire du groupe Lefebvre Sarrut**, a déclaré : « L’innovation est au cœur de notre stratégie. A ce titre, les 6 startups retenues par notre jury exercent des activités qui préfigurent des usages de nos clients de demain dans le secteur juridique. LightSpeed, notre accélérateur de startups, est un exemple concret de notre innovation ouverte. Le programme tire véritablement parti de notre engagement envers la communauté de l’innovation à un niveau européen. L’édition précédente de LightSpeed a été plébiscitée par toutes les startups participantes. Je souhaite le même succès à ce nouvel épisode ! »
 
+## Illustration de la collaboration entre Legaltech et éditeur :
+**LE CAS OPPUS** 
+Par un communiqué de presse en date du 8 avril 2021, le groupe Lefebvre Sarrut et la startup Oppus concrétisent deux années de collaboration et créent Oppus x Lefebvre Dalloz. (lien communiqué : https://www.lefebvre-sarrut.eu/2021/04/08/communique-de-presse-le-groupe-lefebvre-sarrut-et-la-startup-oppus-concretisent-deux-annees-de-collaboration-et-creent-oppus-x-lefebvre-dalloz/) 
 
 
 
