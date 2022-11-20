@@ -16,7 +16,7 @@ La fusion de ce groupe est le résultat d’un tournant novateur adopté par Lef
 L’équipe de Dalloz fit grève pendant une journée en 2010 dénonçant le projet de fusion de son groupe avec les Éditions Législatives.
 
 
-![Historique](https://i.postimg.cc/rmVvs26r/Historique-F-Lefebvre.png)
+![Historique](/images/historique.png)
 
 
 Lefebvre-Sarrut est un groupe d’actionnariat français. Le groupe Francis LEFEBVRE s’inscrit dans la lignée de l’héritage de Francis Lefebvre, qui a constitué au XIXe siècle le groupe d’édition et de formation phare dans le domaine du droit fiscal et comptable. Le groupe SARRUT, quant à lui, s’ancre dans le sillage des fondateurs des Editions Législatives en 1947, Lise et Jean Sarrut, qui se sont rapidement imposés comme les acteurs majeurs en droit social.
