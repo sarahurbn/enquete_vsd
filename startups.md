@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Trouver sa place en tant qu’acteur sur le marché des Legaltechs. 
-subtitle: concurrence ou coopération ? 
-cover-img : https://media.istockphoto.com/id/1339007182/fr/photo/règles-de-conformité-avec-les-stratégies-métier.jpg?s=612x612&w=0&k=20&c=h_c8BQXMdkHh2FFW69Ko3yz9S4kGak413bu1KLW-od0=
+title: Concurrence ou coopération ? 
+subtitle: De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
+cover-img : https://cdn.pixabay.com/photo/2015/03/01/22/27/women-655353__480.jpg
 ---
 
 **Question : De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? **
