@@ -7,7 +7,7 @@ subtitle: Le cheminement de notre projet et la méthodologie de notre enquête
 Nous sommes cinq étudiants en première année à Sciences Po Paris en Master Droit Economique. Dans le cadre de notre cours sur la vie sociale des données avec Dominique Cardon, nous avons étudié les façons dont les représentations de la société se transforment avec le déploiement des données numériques et les techniques d'Intelligence Artificielle. Avec le changement de ces instruments de représentation, il est possible que les instrumentations changent elles-mêmes. Tous étudiants en droit, nous sommes rapidement tombés sur la question de la vie sociale des données juridiques. Ce sujet nous parait particulièrement intéressant, car le travail de tout juriste s'appuie sur des données : les données dans les textes de loi (= les codes), les données descas antérieurs (= la jurisprudence), ou dans les textes de juristes (= la doctrine). 
 
 
-# Notre plan d'attaque
+# Notre plan 
 Pour ce faire, nous allons répondre à un certain nombre de questions : 
 - Qui a créé ce jeu de données ?
 - A quelles fins cette base de données a-t-elle été créée ?
@@ -43,11 +43,12 @@ La question se pose en ces termes :
  
 Nous avons découpé notre étude en trois thèmes exposés ci-dessous :  
  
-* Introduction :  présentation historique de la formation et du fonctionnement du groupe Francis Lefebvre / Dalloz. 
+* **Introduction :**  présentation historique de la formation et du fonctionnement du groupe Francis Lefebvre / Dalloz. L'introduction est basée sur les deux types d'acteurs liés à la base de données : 
+l'éditeur et les utilisateurs. 
  
-Retrouvez les résultats de notre enquête à ce sujet dans l’onglet : 
+Retrouvez les résultats de notre enquête à ce sujet dans les onglets : [L'éditeur](https://sarahurbn.github.io/enquete_vsd/parqui/) et [Utilisateurs](https://sarahurbn.github.io/enquete_vsd/utilisateurs/)
  
-Thème 1 : nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements. Nous avons donc utilisé les ressources disponibles sur internet. 
+**Thème 1 :** nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements. Nous avons donc utilisé les ressources disponibles sur internet, en décortiquant le moteur de recherches de Francis Lefebvre, auquel nous avons eu accès grâce aux ressources numériques de Sciences Po. 
  
 Retrouvez les résultats de notre enquête à ce sujet dans l’onglet : 
  
