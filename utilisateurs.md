@@ -56,7 +56,7 @@ Objectif de la base de données : résoudre les problèmes juridiques auxquels s
 **<span style = "color:orange; font-weight:bold">Question du client</span>** : Est-ce que je peux espérer obtenir l’annulation de cette “FAQ” ?  
 
 
-<img style = "text-align: center" src = "https://cdn.pixabay.com/photo/2014/04/03/10/29/arrow-310629__480.png"></img>
+<img style = "text-align: center" src = "https://cdn.pixabay.com/photo/2014/04/03/10/29/arrow-310629__480.png" width = 15px heigth = >  </img>
  
 **Travail du juriste :** Trouver une solution au problème donné 
  
