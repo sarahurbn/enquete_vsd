@@ -43,7 +43,71 @@ Ils utilisent ces données afin de résoudre des problèmes de droit, leurs cons
 
 
 
-## Partie 2 : Quid des données collectées sur les utilisateurs ? (Information extraites du site internet sur le RGPD) 
+## Partie 2 : Illustration d'une étude de cas fictive en utilisant la base de données 
+
+Objectif de la base de données : résoudre les problèmes juridiques auxquels sont confrontés les juristes. Démontrons cet objectif à travers un cas concret. 
+ 
+*Faits: Nous sommes le 1er juillet 2020, Mme X présidente de l’association “Bas les masques” souhaite organiser une manifestation sur la voie publique pour manifester contre l’obligation généralisée de port du masque, 350 participants sont attendus au minimum.* 
+
+*Cependant, la “foire aux questions” (FAQ) figurant sur le site du ministère de l’intérieur pose une série d’obligations : l’obtention d’une autorisation conditionnée au respect scrupuleux du respect des gestes barrières (sens unique de circulation des manifestants ; preuve de vaccination ou un test PCR-antigénique ; présence de gel hydroalcoolique tous les 100 mètre de part et d’autre du parcours; «référent covid-19»; les règles de distanciation physique d’au moins 1 mètre).* 
+
+*Compte tenu des faibles ressources financières de l’association, Mme X se demande si elle peut obtenir l’annulation de cette partie de la FAQ.* 
+(Ce cas pratique est issu du cours de droit administratif de Pauline Hot et Alexandra Bratos à Sciences Po) 
+
+ 
+**Question de droit du client** : Est-ce que je peux espérer obtenir l’annulation de cette “FAQ” ?  
+ 
+**Travail du juriste :** Trouver une solution au problème donné 
+ 
+ 
+ 
+**Moyens à disposition du juriste pour résoudre la question du client** 
+  Différentes bases de données juridiques dont Francis Lefebvre 
+ 
+ 
+
+
+
+**Travail concret du juriste**
+Le juriste va taper différents mots clés dans la barre de recherche (voir schéma fonctionnement global de Francis Lefebvre partie usages) "FAQ , annulation, conditions"
+ 
+ 
+
+ 
+ 
+ 
+ 
+**Réponse de la base données :**
+La base de données va donner différents résultats notamment des commentaires traitant cette question lesquels renvoient à des arrêts. 
+ 
+
+
+
+
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+**Réponse du juriste élaborée grâce à la base de données Francis Lefebvre :** 
+ 
+ 
+*Arrêt trouvé sur Francis Lefebvre* : Le Conseil d'État s’est prononcé sur la recevabilité d’un recours dirigé contre une foire aux questions publiée par une autorité de régulation. Il a décidé qu’au vu de sa teneur, susceptible **d’avoir un effet notable** sur les professionnels et utilisateurs d’internet, une **question- réponse d’une autorité administrative, en l’espèce la Cnil, peut faire l’objet d’un recours en annulation devant le juge administratif** 
+
+<span style = "color:red"> CE, 10e et 9e ch. réunies, 8 avril 2022, n° 452668 et 459026, Synd. national du marketing à la performance et Collectif des acteurs du marketing digital </span> 
+
+*« Les documents de portée générale émanant d'autorités publiques, matérialisés ou non, tels que les circulaires, instructions, recommandations, notes, présentations ou interprétations du droit positif **peuvent être déférés au juge de l'excès de pouvoir lorsqu'ils sont susceptibles d'avoir des effets notables sur les droits ou la situation d'autres personnes que les agents chargés, le cas échéant, de les mettre en oeuvre**. Ont notamment de tels effets ceux de ces documents qui ont un caractère impératif ou présentent le caractère de lignes directrices »*
+
+Une note publiée sur la base de données Francis Lefebvre précise qu' *« avec cet arrêt, ce sont désormais les « questions-réponses » émanant de toute autorité administrative - notamment, du ministère du travail, mais aussi des organismes de sécurité sociale - qui entrent, sans surprise, dans le cercle des documents administratifs attaquables, sauf à imaginer des foires aux questions qui se contenteraient de paraphraser des dispositions légales ou réglementaires sans rien y ajouter et seraient dès lors sans effet sur les administrés. L’hypothèse est peu vraisemblable puisque leur objet est précisément de répondre à des questions pratiques qui ne sont pas explicitement envisagées par les textes ».* 
+
+En conclusion, s’il est établi que cette FAQ a bien un effet notable sur les adhérents de l'association (fort probable au vu des faits), le juge administratif sera compétent pour traiter sa demande tendant à l'annulation de la FAQ.  
+
+ 
+**Conclusion** 
+Ce cas permet d'illustrer l'usage de cette base données : en donnant accès aux commentaires, mémentos et par lien hypertexte à de la jurisprudence (voir schéma Sara), le travail du juriste est considérablement facilité. 
+
+
+
+
+## Partie 3 : Quid des données collectées sur les utilisateurs ? (Information extraites du site internet sur le RGPD) 
 
 Politique de traitement des données personnelles du Groupe : Le groupe, en qualité de Responsable de Traitement, est amené à collecter, consulter, utiliser, modifier, stocker, transmettre et effacer des Données à Caractère Personnel dans le cadre de ses activités.
 
