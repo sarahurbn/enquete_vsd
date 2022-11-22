@@ -49,15 +49,15 @@ Ils utilisent ces données afin de résoudre des problèmes de droit, leurs cons
 
 Objectif de la base de données : résoudre les problèmes juridiques auxquels sont confrontés les juristes. Démontrons cet objectif à travers un cas concret. 
  
-*Faits: Nous sommes le 1er juillet 2020, Mme X présidente de l’association “Bas les masques” souhaite organiser une manifestation sur la voie publique pour manifester contre l’obligation généralisée de port du masque, 350 participants sont attendus au minimum.* 
+<span style = "color:orange; font-weight:bold">Faits</span> : Mécontent des mesures restrictives imposées par le gouvernement, le président d’une association "Protégeons notre liberté” souhaite avec ses adhérents organiser une manifestation. Il nous explique qu’environ 400 participants sont attendus. Cependant, la “foire aux questions”  figurant sur le site du ministère de l’intérieur pose plusieurs obligations : *“un sens unique de circulation des manifestants ; une preuve de vaccination ou un test PCR-antigénique ; présence de gel hydroalcoolique  ; un «référent covid-19» ; des règles de distanciation physique.”* Disposant de faibles moyens, il souhaiterait obtenir l’annulation de cette FAQ. 
 
-*Cependant, la “foire aux questions” (FAQ) figurant sur le site du ministère de l’intérieur pose une série d’obligations : l’obtention d’une autorisation conditionnée au respect scrupuleux du respect des gestes barrières (sens unique de circulation des manifestants ; preuve de vaccination ou un test PCR-antigénique ; présence de gel hydroalcoolique tous les 100 mètre de part et d’autre du parcours; «référent covid-19»; les règles de distanciation physique d’au moins 1 mètre).* 
+*Source : Ce cas pratique est inspiré du cas pratique donnée en cours de droit administratif de Pauline Hot et Alexandra Bratos à Sciences Po)* 
 
-*Compte tenu des faibles ressources financières de l’association, Mme X se demande si elle peut obtenir l’annulation de cette partie de la FAQ.* 
-(Ce cas pratique est issu du cours de droit administratif de Pauline Hot et Alexandra Bratos à Sciences Po) 
+**<span style = "color:orange; font-weight:bold">Question du client</span>** : Est-ce que je peux espérer obtenir l’annulation de cette “FAQ” ?  
 
- 
-**Question de droit du client** : Est-ce que je peux espérer obtenir l’annulation de cette “FAQ” ?  
+<div style style="text-align: center;">
+![flèche](https://cdn.pixabay.com/photo/2014/04/03/10/29/arrow-310629__480.png)
+</div>
  
 **Travail du juriste :** Trouver une solution au problème donné 
  
@@ -91,7 +91,7 @@ La base de données va donner différents résultats notamment des commentaires 
  
 *Arrêt trouvé sur Francis Lefebvre* : Le Conseil d'État s’est prononcé sur la recevabilité d’un recours dirigé contre une foire aux questions publiée par une autorité de régulation. Il a décidé qu’au vu de sa teneur, susceptible **d’avoir un effet notable** sur les professionnels et utilisateurs d’internet, une **question- réponse d’une autorité administrative, en l’espèce la Cnil, peut faire l’objet d’un recours en annulation devant le juge administratif** 
 
-<span style = "color:red"> CE, 10e et 9e ch. réunies, 8 avril 2022, n° 452668 et 459026, Synd. national du marketing à la performance et Collectif des acteurs du marketing digital </span> 
+<span style = "color:orange"> CE, 10e et 9e ch. réunies, 8 avril 2022, n° 452668 et 459026, Synd. national du marketing à la performance et Collectif des acteurs du marketing digital </span> 
 
 *« Les documents de portée générale émanant d'autorités publiques, matérialisés ou non, tels que les circulaires, instructions, recommandations, notes, présentations ou interprétations du droit positif **peuvent être déférés au juge de l'excès de pouvoir lorsqu'ils sont susceptibles d'avoir des effets notables sur les droits ou la situation d'autres personnes que les agents chargés, le cas échéant, de les mettre en oeuvre**. Ont notamment de tels effets ceux de ces documents qui ont un caractère impératif ou présentent le caractère de lignes directrices »*
 
