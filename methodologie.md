@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Méthodologie de l'enquête 
-subtitle: Dans cette section, nous expliquons de manière plus concrète par quels moyens nous avons tenté de mener cette enquête, quelle méthodologie nous avons employé et à quelles difficultés nous nous sommes heurtés. 
+subtitle: Dans cette section, nous expliquons quelle méthodologie nous avons employée pour cette enquête et à quelles limites nous avons été confrontés.
 ---
 
 ## Les méthodes employées et les difficultés rencontrées 
