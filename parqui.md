@@ -2,7 +2,7 @@
 layout: page
 title: Qui a créé ce jeu de données ?
 subtitle: Pour mieux comprendre la base de données sujette à notre étude, il s'agira d'abord de retracer l'histoire de Francis Lefebvre. 
-cover-img: https://cdn.pixabay.com/photo/2014/05/02/02/19/bookcase-335849_1280.jpg
+cover-img: https://cdn.pixabay.com/photo/2017/08/07/19/07/books-2606859__480.jpg
 
 ---
 
