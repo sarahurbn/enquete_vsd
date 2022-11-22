@@ -1,7 +1,10 @@
-## Méthodologie 
+---
+layout: page
+title: Méthodologie de l'enquête 
+subtitle: 
+---
 
-# Méthodologie de l'enquête 
-
+# Les méthodes employées 
 
 # Anonymisation des noms 
 
