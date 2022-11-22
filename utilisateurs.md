@@ -33,8 +33,7 @@ Il couvre différentes matières :
 
 # La vie sociale des données sur Francis Lefebvre
 
-![schéma](/images/schema_utilisateurs)
-
+![schéma](/images/schema_utilisateurs.png)
 
 Explication du schéma : 
 
