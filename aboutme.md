@@ -18,7 +18,7 @@ Pour ce faire, nous allons répondre à un certain nombre de questions :
 
 ## Chronologie de notre enquête
 
-# Les débuts...
+### Les débuts...
 
 Lors de la semaine de pré-rentrée de l'Ecole de Droit de Sciences Po Paris, nous avons reçu une présentation de la base de données Lexis Nexis. Compte tenu du partenariat privilégié entre Sciences Po et Lexis Nexis, nous avions donc décidé de réaliser notre enquête sur la base de données Lexis Nexis. 
  
@@ -30,7 +30,7 @@ Elle nous a expliqué le fonctionnement global de la plateforme. Toutefois, n'é
  
 Toutefois, étant restés sans réponse, nous avons décidé de changer de base de données. Après plusieurs hésitations entre Dalloz, Lextenso et Francis Lefebvre, **nous avons décidé d'enquêter sur la base de données Francis Lefebvre.** 
 
-# L'orientation définitive de notre enquête...
+### L'orientation définitive de notre enquête...
 
 
 Le 16 octobre 2022, nous avons réussi à avoir un entretien avec le directeur marketing du  groupe Francis Lefebvre Dalloz. Ce dernier a été d’une très grande aide pour orienter notre enquête et nous éclairer sur les enjeux entourant les bases de données juridiques, telles que l’éditeur Francis Lefebvre.  
@@ -60,7 +60,7 @@ Retrouvez les résultats de notre enquête à ce sujet dans l’onglet : “Trou
  
 Nous remercions chaleureusement le directeur marketing qui nous a été d’une aide précieuse pour notre enquête. 
 
-# L'intervention d’Héloïse ELOI - HAMMER… 
+### L'intervention d’Héloïse ELOI - HAMMER… 
 
 Dans le cadre de notre enquête, nous avons  pu contacter Heloïse Eloi-Hammer, doctorante au Médialab de Sciences Po. En effet, sa thèse portant sur la conception et l’utilisation d’algorithmes dits de justice prédictive, il nous paraissait primordial de pouvoir l’interroger afin d’en savoir plus sur le sujet et d’en comprendre les enjeux. Son analyse et ses explications ont pu nous éclairer sur la réalité des bases de données juridiques dans leur ensemble. C’était donc un entretien qui fut très important pour la suite de l’enquête. Nous avons filmé cet entretien et tout au long du site, en fonction des sujets évoqués, nous avons mis certains passages pour permettre une meilleure compréhension du sujet et des enjeux. 
 
@@ -75,25 +75,22 @@ Ainsi, notre enquête a pris ici un tournant. Nous avons alors décidé de porte
 Nous remercions également Heloïse Eloi-Hammer pour le temps qu’elle a passé à nous partager ses connaissances pour le bien de notre enquête. 
 
 
-CONCLUSION
+## CONCLUSION
 Si la prédiction algorithmique soulève la question de la possibilité, elle pose aussi des enjeux de droit et d’éthique. Les questions éthiques inhérentes aux algorithmes posent des limites aux modèles prédictifs, en particulier dans le domaine judiciaire.
-ANALYSE DE L’APPORT DE L'ENQUÊTE
+
+### ANALYSE DE L’APPORT DE L'ENQUÊTE
+
 L’étude de la base de données Lefebvre-Dalloz a mis en évidence qu’indexer les données juridiques est primordial, afin de gérer la masse de données jurisprudentielles exposées de manière brute sur Internet.
 Cette enquête nous a permis de montrer que l’agrégation des données ne suffit plus aujourd’hui, surtout dans le domaine juridique. En effet, le moteur de recherche Predictice a mis en exergue que la justice prédictive constitue le défi de demain pour les bases de données juridiques. Toutefois, l’outil a rencontré ses limites : l’échec relatif du projet a pu notamment révéler l’impossibilité de bâtir un outil fiable pour traiter la jurisprudence. Cet exemple a pu démontrer que l’extraction des données n’était pas complètement automatisable, en raison de l’absence de formatage des décisions.  
 Les outils de recherche en matière de données juridiques restent malgré tout essentiels, et s’avèrent être des supports efficaces d’aide à la décision pour les juristes. Ainsi, l’incorporation de l’intelligence artificielle s’est imposée naturellement pour améliorer le traitement de ces données : elle permet aux juristes de sélectionner les éléments pertinents des décisions issues de l’open data sans les priver de leur capacité d’analyse. 
+
 Toutefois, la question de l’incertitude constitue un obstacle à la prédiction algorithmique juridique. L’accumulation d’un grand nombre de données ne permet pas de se prémunir contre l’incertitude. Des intervalles de confiance trop larges donnent des résultats non exploitables. Dans le cadre de la « justice prédictive », la collecte de la donnée pose problème. Pour construire un tel algorithme, les données collectées sont des décisions de justice depuis plus de dix ans. Le problème de l’algorithme judiciaire réside dans le fait qu’il suppose que les décisions passées représentent l’avenir.
 Ce projet nous a également ouvert les yeux sur l’importance de l’innovation au cœur des données juridiques. L’analyse des relations de collaboration entre Lefebvre-Dalloz et la legaltech Oppus nous a révélé que la dématérialisation des décisions juridiques est capitale aujourd’hui puisqu’elle aboutit à simplifier l’analyse juridique. Le croisement des expertises de ces deux groupes nous montre également la nécessité de compiler les données juridiques, afin de créer un outil de sécurisation juridique performant et adapté aux divers professionnels du droit.
 
 
 
 
-## Elements de méthodologie et difficultés rencontrées (faire un nouvel onglet) 
 
-# Méthodologie 
-
-# Anonymisation des noms 
-
-Etant donné que de nombreuses pistes sont restées infructueuses, nous n'avons pas cité les noms des personnes avec lesquelles nous avons essayé de rentrer en contact. Ainsi, nous avons anonymisé un certain nombre de personnes qui ont fait partie indirectement ou directement de notre enquête. 
 
 
 
