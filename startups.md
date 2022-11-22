@@ -35,7 +35,7 @@ Ainsi, plus qu’une concurrence, les éditeurs et les legaltechs avancent de pa
 Par un [communiqué de presse en date du 8 avril 2021](https://www.lefebvre-sarrut.eu/2021/04/08/communique-de-presse-le-groupe-lefebvre-sarrut-et-la-startup-oppus-concretisent-deux-annees-de-collaboration-et-creent-oppus-x-lefebvre-dalloz/), le groupe Lefebvre Sarrut et la startup Oppus concrétisent deux années de collaboration et créent Oppus x Lefebvre Dalloz.
 
 
-![communiqué](/images/communiqué.png)
+![communiqué](/images/communique.png)
 
 
 Nous avons été mis en relation avec Monsieur X, par le biais du directeur marketing du groupe. Cependant nous attendons toujours la réponse de l’interview. Nous avons pu toutefois orienter nos questions grâce à une interview donnée précédemment par ce dernier. 
