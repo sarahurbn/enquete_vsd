@@ -20,7 +20,9 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 ###############################################
 
 navbar-links:
-  Enquête : "aboutme"
+  Enquête : 
+  - Cheminement : "aboutme"
+  - Méthodologie : "methodologie"
   
   Acteurs:
     - L'éditeur : "parqui"
