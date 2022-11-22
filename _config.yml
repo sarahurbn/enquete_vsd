@@ -21,8 +21,8 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 
 navbar-links:
   Enquête : 
-  - Cheminement : "aboutme"
-  - Méthodologie : "methodologie"
+  - Déroulé : "aboutme"
+  - Méthode : "methodologie"
   
   Acteurs:
     - L'éditeur : "parqui"
