@@ -34,4 +34,8 @@ le droit commercial inclut les dispositions
 
 
 
+D'ailleurs, il est intéressant de voir que la jurisprudence n'est pas accessible par accès direct alors que c'est elle qui fonde la justice prédictive = REFORMULER
+
+
+
 
