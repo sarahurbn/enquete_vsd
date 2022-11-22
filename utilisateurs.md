@@ -87,9 +87,6 @@ La base de données va donner différents résultats notamment des commentaires 
 
 
 
-
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
 **Réponse du juriste élaborée grâce à la base de données Francis Lefebvre :** 
  
  
