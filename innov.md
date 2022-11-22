@@ -1,4 +1,8 @@
-## L'innovation au sein du groupe 
+---
+layout: page
+title: L'innovation au sein du groupe
+subtitle: Dans cette section, nous expliquons quelle méthodologie nous avons employée pour cette enquête et à quelles limites nous avons été confrontés.
+---
 
 # Utilisation de la base de données Francis Lefebvre et Dalloz par Ok.Doc
 
