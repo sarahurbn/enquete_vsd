@@ -31,7 +31,7 @@ Il couvre différentes matières :
 * International 
 
 
-# La vie sociale des données sur Francis Lefebvre
+### La vie sociale des données sur Francis Lefebvre
 
 ![schéma](/images/schema_utilisateurs.png)
 
@@ -110,7 +110,7 @@ Ce cas permet d'illustrer l'usage de cette base données : en donnant accès aux
 
 Politique de traitement des données personnelles du Groupe : Le groupe, en qualité de Responsable de Traitement, est amené à collecter, consulter, utiliser, modifier, stocker, transmettre et effacer des Données à Caractère Personnel dans le cadre de ses activités.
 
-# 1) Quand les  données sont- elles collectées ? 
+### 1) Quand les  données sont- elles collectées ? 
 
 Ces données sont pour la plupart collectées directement auprès des personnes concernées, lorsqu’elles, de manière non limitative :
 
@@ -125,7 +125,7 @@ Ces données sont pour la plupart collectées directement auprès des personnes 
 * Rédigent un avis/commentaire visible sur l’un des sites du Groupe LEFEBVRE SARRUT;
 * Postulent aux offres d’emploi sur l’un des sites du Groupe LEFEBVRE SARRUT.
 
-# 2) Quelles types de données sont précisément collectées ? 
+### 2) Quelles types de données sont précisément collectées ? 
 
 * Les données identitaires ;
 * Les données de contact ;
@@ -136,19 +136,19 @@ Ces données sont pour la plupart collectées directement auprès des personnes 
 * Le cas échéant, les réponses aux sondages et questionnaires et les commentaires/avis ; Les informations techniques liées à la navigation (ex : adresse IP) ;
 * Les prétentions salariales et toutes données transmises dans le Curriculum vitae dans le cadre d’une candidature spontanée ou en réponse à une offre d’emploi au sein du Groupe LEFEBVRE SARRUT.
 
-# 3) Où sont hébergés les données collectées ? 
+### 3) Où sont hébergés les données collectées ? 
 
 Les Données à Caractère Personnel collectées et traitées par le Groupe LEFEBVRE SARRUT sont hébergées en Union Européenne.Néanmoins, vos données peuvent être transférées à des sous-traitants situés en dehors de l’Union Européenne pour la durée du traitement.
 
 
-# 4) A qui sont destinées les données collectées sur les utilisateurs ?
+### 4) A qui sont destinées les données collectées sur les utilisateurs ?
 
 Les données collectées peuvent être transmises :
 * l’ensemble des sociétés du Groupe LEFEBVRE SARRUT et celles dans lesquelles le Groupe LEFEBVRE SARRUT a une participation ;
 * Prestataires de services et sous-traitants réalisant des prestations pour notre compte ;
 * Partenaires commerciaux. 
 
-# 5) Combien de temps les données sont-elles conservées?
+### 5) Combien de temps les données sont-elles conservées?
 
 Les données des clients sont conservées pendant toute la durée de la relation contractuelle, et peuvent être conservées jusqu’à dix (10) ans après sa rupture afin de respecter notamment les obligations comptables et fiscales qui incombent au groupe LEFEBVRE SARRUT. Les données des prospects personnes physiques peuvent être conservées jusqu’à trois (3) ans après le dernier contact émanant du prospect.
 
