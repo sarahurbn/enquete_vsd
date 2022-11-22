@@ -48,19 +48,21 @@ l'éditeur et les utilisateurs.
  
 *Retrouvez les résultats de notre enquête à ce sujet dans les onglets :* [L'éditeur](https://sarahurbn.github.io/enquete_vsd/parqui/) et [Les utilisateurs](https://sarahurbn.github.io/enquete_vsd/utilisateurs/)
  
-**Thème 2 : la technique ** nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). **A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements.** Nous avons donc utilisé les ressources disponibles sur internet, en décortiquant le moteur de recherches de Francis Lefebvre, auquel nous avons eu accès grâce aux ressources numériques de Sciences Po.
+* **Thème 2 : la technique** nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements. Nous avons donc utilisé les ressources disponibles sur internet, en décortiquant le moteur de recherches de Francis Lefebvre, auquel nous avons eu accès grâce aux ressources numériques de Sciences Po. Ce moteur de recherches nous a permis d'explorer la base de données en elle même, et surtout la façon dont elle catégorise les données juridiques.
  
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet :* [La technique](https://sarahurbn.github.io/enquete_vsd/fiche_technique/)
  
 
-**Thème 3 : L'innovation** : Le thème de l'innovation a été divisé en trois sous-thèmes : 
+* **Thème 3 : L'innovation** : Le thème de l'innovation a été divisé en trois sous-thèmes : 
 
 1° **La justice prédictive:** Dans la continuité du thème précédent, nous montrons qu’il faut être de plus en plus innovants face aux besoins, développer de nouvelles réponses . Ici c’est le thème de la justice prédictive qui est abordé. Nous interrogeons également les limites de cette technique (difficulté de revirements jurisprudentiels, libre arbitre des juges, à qui s’adresse-t-elle ? les juges ? avocats ? justiciables ?…). **A ces fins, nous avons pu interviewer Héloïse ELOI - HAMMER, qui rédige sa thèse à ce sujet.**
  
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet* : [La justice prédictive](https://sarahurbn.github.io/enquete_vsd/justice_predictive/)
  
 2° **L'innovation au sein de Francis Lefebvre**
-Nous avons également effectué quelques recherches sur l'innovation au sein du groupe Francis Lefebvre, afin de voir comment le groupe réagissait à la nécessité d'innovation dans le marché : [L'innovation au sein du groupe](https://sarahurbn.github.io/enquete_vsd/innov/)
+Nous avons également effectué quelques recherches sur l'innovation au sein du groupe Francis Lefebvre, afin de voir comment le groupe réagissait à la nécessité d'innovation dans le marché.
+ 
+ *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet*: [L'innovation au sein du groupe](https://sarahurbn.github.io/enquete_vsd/innov/)
  
 3° **Les Legaltechs** : enfin nous avons ouvert notre étude sur les Legaltechs. Le directeur marketing nous a confié leur récente collaboration avec Oppus, startup juridique créée par un juriste. La question principale sera celle de l’existence d’un écosystème ou de sociétés opposées et concurrentes. **Nous avons été mis en relation avec le CEO, Monsieur Alassane Samb. Malheureusement, nous attendons encore la réponse de l’interview, bien que nous ayons pu utiliser, pour notre enquête, une autre interview précédemment donnée par ce dernier.**
 
