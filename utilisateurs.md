@@ -60,33 +60,28 @@ Objectif de la base de données : résoudre les problèmes juridiques auxquels s
  
 **Travail du juriste :** Trouver une solution au problème donné 
  
- 
+![flèche](/images/fleche.png)
  
 **Moyens à disposition du juriste pour résoudre la question du client** 
   Différentes bases de données juridiques dont Francis Lefebvre 
  
- 
-
-
+![flèche](/images/fleche.png)
 
 **Travail concret du juriste**
 Le juriste va taper différents mots clés dans la barre de recherche (voir schéma fonctionnement global de Francis Lefebvre partie usages) "FAQ , annulation, conditions"
  
+ ![flèche](/images/fleche.png)
  
 
- 
- 
- 
- 
-**Réponse de la base données :**
+**Réponse de la base de données :**
 La base de données va donner différents résultats notamment des commentaires traitant cette question lesquels renvoient à des arrêts. 
  
-
-
+![flèche](/images/fleche.png)
 
 
 **Réponse du juriste élaborée grâce à la base de données Francis Lefebvre :** 
  
+ ![flèche](/images/fleche.png)
  
 *Arrêt trouvé sur Francis Lefebvre* : Le Conseil d'État s’est prononcé sur la recevabilité d’un recours dirigé contre une foire aux questions publiée par une autorité de régulation. Il a décidé qu’au vu de sa teneur, susceptible **d’avoir un effet notable** sur les professionnels et utilisateurs d’internet, une **question- réponse d’une autorité administrative, en l’espèce la Cnil, peut faire l’objet d’un recours en annulation devant le juge administratif** 
 
@@ -98,6 +93,8 @@ Une note publiée sur la base de données Francis Lefebvre précise qu' *« avec
 
 En conclusion, s’il est établi que cette FAQ a bien un effet notable sur les adhérents de l'association (fort probable au vu des faits), le juge administratif sera compétent pour traiter sa demande tendant à l'annulation de la FAQ.  
 
+ ![flèche](/images/fleche.png)
+ 
  
 **Conclusion** 
 Ce cas permet d'illustrer l'usage de cette base données : en donnant accès aux commentaires, mémentos et par lien hypertexte à de la jurisprudence (voir schéma Sara), le travail du juriste est considérablement facilité. 
