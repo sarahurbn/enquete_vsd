@@ -49,9 +49,8 @@ Ils utilisent ces données afin de résoudre des problèmes de droit, leurs cons
 
 Objectif de la base de données : résoudre les problèmes juridiques auxquels sont confrontés les juristes. Démontrons cet objectif à travers un cas concret. 
  
-<span style = "color:orange; font-weight:bold">Faits</span> : Mécontent des mesures restrictives imposées par le gouvernement, le président d’une association "Protégeons notre liberté” souhaite avec ses adhérents organiser une manifestation. Il nous explique qu’environ 400 participants sont attendus. Cependant, la “foire aux questions”  figurant sur le site du ministère de l’intérieur pose plusieurs obligations : *“un sens unique de circulation des manifestants ; une preuve de vaccination ou un test PCR-antigénique ; présence de gel hydroalcoolique  ; un «référent covid-19» ; des règles de distanciation physique.”* Disposant de faibles moyens, il souhaiterait obtenir l’annulation de cette FAQ. 
+<span style = "color:orange; font-weight:bold">Faits</span> : Mécontent des mesures restrictives imposées par le gouvernement, le président d’une association "Protégeons notre liberté” souhaite avec ses adhérents organiser une manifestation. Il nous explique qu’environ 400 participants sont attendus. Cependant, la “foire aux questions”  figurant sur le site du ministère de l’intérieur pose plusieurs obligations : *“une preuve de vaccination ou un test PCR-antigénique ; présence de gel hydroalcoolique  ; un «référent covid-19» ; des règles de distanciation physique.”* Disposant de faibles moyens, il souhaiterait obtenir l’annulation de cette FAQ. 
 
-*Source : Ce cas pratique est inspiré du cas pratique donnée en cours de droit administratif de Pauline Hot et Alexandra Bratos à Sciences Po)* 
 
 **<span style = "color:orange; font-weight:bold">Question du client</span>** : Est-ce que je peux espérer obtenir l’annulation de cette “FAQ” ?  
 
