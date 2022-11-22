@@ -43,23 +43,30 @@ La question se pose en ces termes :
  
 Nous avons découpé notre étude en trois thèmes exposés ci-dessous :  
  
-* **Introduction :**  présentation historique de la formation et du fonctionnement du groupe Francis Lefebvre / Dalloz. L'introduction est basée sur les deux types d'acteurs liés à la base de données : 
+* **Thème 1 : Présentation des acteurs :**  présentation historique de la formation et du fonctionnement du groupe Francis Lefebvre / Dalloz. L'introduction est basée sur les deux types d'acteurs liés à la base de données : 
 l'éditeur et les utilisateurs. 
  
 *Retrouvez les résultats de notre enquête à ce sujet dans les onglets :* [L'éditeur](https://sarahurbn.github.io/enquete_vsd/parqui/) et [Les utilisateurs](https://sarahurbn.github.io/enquete_vsd/utilisateurs/)
  
-**Thème 1 :** nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). **A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements.** Nous avons donc utilisé les ressources disponibles sur internet, en décortiquant le moteur de recherches de Francis Lefebvre, auquel nous avons eu accès grâce aux ressources numériques de Sciences Po.
+**Thème 2 : la technique ** nous commençons notre étude par le fonctionnement interne de la base de données (l’algorithme, discuter des choix d’organisation et d’agrégation de la donnée…). **A ces fins, nous avons été mis en relation avec la personne chargée du fonctionnement interne de la base de données. Malheureusement, elle ne disposait pas de temps nécessaire pour répondre à nos questionnements.** Nous avons donc utilisé les ressources disponibles sur internet, en décortiquant le moteur de recherches de Francis Lefebvre, auquel nous avons eu accès grâce aux ressources numériques de Sciences Po.
  
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet :* [La technique](https://sarahurbn.github.io/enquete_vsd/fiche_technique/)
  
-**Thème 2** : dans la continuité du thème précédent, nous montrons qu’il faut être de plus en plus innovants face aux besoins, développer de nouvelles réponses . Ici c’est le thème de la justice prédictive qui est abordé. Nous interrogeons également les limites de cette technique (difficulté de revirements jurisprudentiels, libre arbitre des juges, à qui s’adresse-t-elle ? les juges ? avocats ? justiciables ?…). **A ces fins, nous avons pu interviewer Héloïse ELOI - HAMMER, qui rédige sa thèse à ce sujet.**
+
+**Thème 3 : L'innovation** : Le thème de l'innovation a été divisé en trois sous-thèmes : 
+
+1° **La justice prédictive:** Dans la continuité du thème précédent, nous montrons qu’il faut être de plus en plus innovants face aux besoins, développer de nouvelles réponses . Ici c’est le thème de la justice prédictive qui est abordé. Nous interrogeons également les limites de cette technique (difficulté de revirements jurisprudentiels, libre arbitre des juges, à qui s’adresse-t-elle ? les juges ? avocats ? justiciables ?…). **A ces fins, nous avons pu interviewer Héloïse ELOI - HAMMER, qui rédige sa thèse à ce sujet.**
  
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet* : [La justice prédictive](https://sarahurbn.github.io/enquete_vsd/justice_predictive/)
  
-**Thème 3** : enfin nous avons ouvert notre étude sur les Legaltechs. Le directeur marketing nous a confié leur récente collaboration avec Oppus, startup juridique créée par un juriste. La question principale sera celle de l’existence d’un écosystème ou de sociétés opposées et concurrentes. **Nous avons été mis en relation avec le CEO, Monsieur Alassane Samb. Malheureusement, nous attendons encore la réponse de l’interview, bien que nous ayons pu utiliser, pour notre enquête, une autre interview précédemment donnée par ce dernier.**
+2° **L'innovation au sein de Francis Lefebvre**
+Nous avons également effectué quelques recherches sur l'innovation au sein du groupe Francis Lefebvre, afin de voir comment le groupe réagissait à la nécessité d'innovation dans le marché : [ok doc](https://sarahurbn.github.io/enquete_vsd/innov/)
+ 
+3° **Les Legaltechs** : enfin nous avons ouvert notre étude sur les Legaltechs. Le directeur marketing nous a confié leur récente collaboration avec Oppus, startup juridique créée par un juriste. La question principale sera celle de l’existence d’un écosystème ou de sociétés opposées et concurrentes. **Nous avons été mis en relation avec le CEO, Monsieur Alassane Samb. Malheureusement, nous attendons encore la réponse de l’interview, bien que nous ayons pu utiliser, pour notre enquête, une autre interview précédemment donnée par ce dernier.**
 
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet* : [OPPUS x Lefevbre Dalloz](https://sarahurbn.github.io/enquete_vsd/startups/)
- 
+
+
 Nous remercions chaleureusement le directeur marketing qui nous a été d’une aide précieuse pour notre enquête. 
 
 ### L'intervention d’Héloïse ELOI - HAMMER… 
@@ -90,11 +97,4 @@ Les outils de recherche en matière de données juridiques restent malgré tout 
 Toutefois, la question de l’incertitude constitue un obstacle à la prédiction algorithmique juridique. L’accumulation d’un grand nombre de données ne permet pas de se prémunir contre l’incertitude. Des intervalles de confiance trop larges donnent des résultats non exploitables. Dans le cadre de la « justice prédictive », la collecte de la donnée pose problème. Pour construire un tel algorithme, les données collectées sont des décisions de justice depuis plus de dix ans. Le problème de l’algorithme  réside dans le fait qu’il **suppose que les décisions passées représentent l’avenir**.
 
 Ce projet nous a également ouvert les yeux sur **l’importance de l’innovation au cœur de la vie sociale des données juridiques**. Ainsi, comme l'expliquait très bien Bruno Latour sur les données en général, on devrait parler d'obtenues plutôt que de données. Cela est d'autant plus vrai pour les données juridiques : en effet, comme l'a démontré notre enquête, il ne suffit pas de recueillir ces données brutes. Ainsi, l’analyse des relations de collaboration entre Lefebvre-Dalloz et la legaltech Oppus nous a révélé que la dématérialisation des décisions juridiques est capitale aujourd’hui puisqu’elle aboutit à simplifier l’analyse juridique. Le croisement des expertises de ces deux groupes nous montre également la nécessité de compiler les données juridiques, afin de créer un outil de sécurisation juridique performant et adapté aux divers professionnels du droit.
-
-
-
-
-
-
-
 
