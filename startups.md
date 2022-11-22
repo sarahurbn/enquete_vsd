@@ -32,7 +32,7 @@ Ainsi, plus qu’une concurrence, les éditeurs et les legaltechs avancent de pa
 ## Illustration de la collaboration entre Legaltech et éditeur :
 **LE CAS OPPUS X LEFEBVRE DALLOZ – Interview du CEO Monsieur Alassane Samb.** 
 
-Par un communiqué de presse en date du 8 avril 2021, le groupe Lefebvre Sarrut et la startup Oppus concrétisent deux années de collaboration et créent Oppus x Lefebvre Dalloz. (lien communiqué : https://www.lefebvre-sarrut.eu/2021/04/08/communique-de-presse-le-groupe-lefebvre-sarrut-et-la-startup-oppus-concretisent-deux-annees-de-collaboration-et-creent-oppus-x-lefebvre-dalloz/) 
+Par un [communiqué de presse en date du 8 avril 2021](https://www.lefebvre-sarrut.eu/2021/04/08/communique-de-presse-le-groupe-lefebvre-sarrut-et-la-startup-oppus-concretisent-deux-annees-de-collaboration-et-creent-oppus-x-lefebvre-dalloz/), le groupe Lefebvre Sarrut et la startup Oppus concrétisent deux années de collaboration et créent Oppus x Lefebvre Dalloz.
 
 
 Nous avons été mis en relation avec Monsieur Alassane Samb, par le biais du directeur marketing du groupe. Cependant nous attendons toujours la réponse de l’interview. Nous avons pu toutefois orienter nos questions grâce à une interview donnée précédemment par ce dernier. 
