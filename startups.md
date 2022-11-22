@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trouver sa place en tant qu’acteur sur le marché des Legaltechs. 
-subtitle: De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
+title: Concurrence ou coopération ?
+subtitle: Trouver sa place en tant qu’acteur sur le marché des Legaltechs. De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
 ---
 
 L’agrégation de données sur une base de données est une pratique qui remonte aux années 1990. De nos jours, cela ne suffit plus. Il faut non seulement agréger la donnée de manière intelligente (proposer les décisions les plus adéquates, des liens hypertextes vers thématiques ressemblantes…), mais également innover face au marché de Legaltech qui ne cesse de s’accroître. Il convient de se demander de quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
