@@ -30,7 +30,10 @@ Il couvre différentes matières :
 * Association 
 * International 
 
-AJOUTER SCHEMA AVEC GRIBOUILLIS 
+
+# La vie sociale des données sur Francis Lefebvre
+
+![schéma](/images/schema_utilisateurs)
 
 
 Explication du schéma : 
