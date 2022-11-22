@@ -23,6 +23,7 @@ navbar-links:
   Enquête : 
   - Déroulé : "aboutme"
   - Méthode : "methodologie"
+  - Bibliographie : "bibliographie"
   
   Acteurs:
     - L'éditeur : "parqui"
