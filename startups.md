@@ -47,7 +47,7 @@ Nous avons été mis en relation avec Monsieur Alassane Samb, par le biais du di
 
 * **Tout d’abord, pouvez-vous nous présenter votre start up ? Quel est son lien avec le groupe Francis Lefebvre Dalloz ?** 
 
-Lors du podcast enregistré aux côté de « Du vent sous la robe », le 5 octobre 2021, vous expliquez que votre collaboration avec le groupe Lefebvre tient à la volonté de réaliser un « projet qui sort de l’ordinaire » avec des ressources qui « sortent de l’ordinaire ». Nous comprenons ici la nécessité d’originalité et d’innovation sur le marché saturé des legaltechs aujourd’hui. Cela amène plusieurs questions : 
+Lors du podcast enregistré aux côtés de « Du vent sous la robe », le 5 octobre 2021, vous expliquez que votre collaboration avec le groupe Lefebvre tient à la volonté de réaliser un « projet qui sort de l’ordinaire » avec des ressources qui « sortent de l’ordinaire ». Nous comprenons ici la nécessité d’originalité et d’innovation sur le marché saturé des legaltechs aujourd’hui. Cela amène plusieurs questions : 
 
 *	**Comment avez-vous rendu votre projet « extraordinaire » ? Quelle est la solution innovante qu’apporte Oppus ?** 
 
