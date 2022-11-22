@@ -28,11 +28,12 @@ navbar-links:
     - L'éditeur : "parqui"
     - Les utilisateurs: "utilisateurs"
   
-  Technique : 
-    - Le fonctionnement technique : "fiche_technique"
-    - La justice prédictive : "justice_predictive"
+  Technique : "fiche_technique"
+    
   
-  OPPUS x Lefebvre Dalloz : "startups" 
+  Innovation : 
+    - La justice prédictive : "justice_predictive"
+    - OPPUS x Lefebvre Dalloz : "startups" 
   
   
   
