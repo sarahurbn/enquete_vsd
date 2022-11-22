@@ -20,13 +20,16 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 ###############################################
 
 navbar-links:
-  L'enquête : "aboutme"
+  Notre enquête : "aboutme"
+  
   Les acteurs:
     - L'éditeur : "parqui"
     - Les utilisateurs: "utilisateurs"
-  La technique: "fiche_technique"
-  L'utilisation : 
+  
+  Aspects techniques et limites : 
+    - Le fonctionnement technique : "fiche_technique"
     - La justice prédictive : "justice_predictive"
+  
   OPPUS x Lefebvre Dalloz : "startups" 
   
   
