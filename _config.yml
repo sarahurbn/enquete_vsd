@@ -20,13 +20,13 @@ author: Doa Biddine, Nora Elkhomri, Camille Garate, Antoine Rifle, Sarah Urban
 ###############################################
 
 navbar-links:
-  Notre enquête : "aboutme"
+  Enquête : "aboutme"
   
-  Les acteurs:
+  Acteurs:
     - L'éditeur : "parqui"
     - Les utilisateurs: "utilisateurs"
   
-  La technique : 
+  Technique : 
     - Le fonctionnement technique : "fiche_technique"
     - La justice prédictive : "justice_predictive"
   
