@@ -60,7 +60,7 @@ l'éditeur et les utilisateurs.
 *Retrouvez les résultats de notre enquête à ce sujet dans l’onglet* : [La justice prédictive](https://sarahurbn.github.io/enquete_vsd/justice_predictive/)
  
 2° **L'innovation au sein de Francis Lefebvre**
-Nous avons également effectué quelques recherches sur l'innovation au sein du groupe Francis Lefebvre, afin de voir comment le groupe réagissait à la nécessité d'innovation dans le marché : [ok doc](https://sarahurbn.github.io/enquete_vsd/innov/)
+Nous avons également effectué quelques recherches sur l'innovation au sein du groupe Francis Lefebvre, afin de voir comment le groupe réagissait à la nécessité d'innovation dans le marché : [L'innovation au sein du groupe](https://sarahurbn.github.io/enquete_vsd/innov/)
  
 3° **Les Legaltechs** : enfin nous avons ouvert notre étude sur les Legaltechs. Le directeur marketing nous a confié leur récente collaboration avec Oppus, startup juridique créée par un juriste. La question principale sera celle de l’existence d’un écosystème ou de sociétés opposées et concurrentes. **Nous avons été mis en relation avec le CEO, Monsieur Alassane Samb. Malheureusement, nous attendons encore la réponse de l’interview, bien que nous ayons pu utiliser, pour notre enquête, une autre interview précédemment donnée par ce dernier.**
 
