@@ -2,7 +2,6 @@
 layout: page
 title: Comment la base de données est-elle organisée ?
 subtitle: Il convient de s'interroger sur les catégories utilisées par Francis Lefebvre pour représenter les données juridiques.
-cover-img: https://cdn.pixabay.com/photo/2018/01/17/20/22/analytics-3088958_1280.jpg
 ---
 
 
