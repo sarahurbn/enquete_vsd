@@ -13,7 +13,7 @@ La justice prédictive selon le Rapport Cadiet est un « ensemble d’instrument
 Lors de l’interview, nous avons pu interroger Héloïse Eloï Hammer sur ce sujet. Elle a pu nous partager ses connaissances générales en la matière, et surtout concernant les limites de ce concept. Voici la retranscription vidéo :
 
 
-**METTRE VIDEO ICI**
+![Vidéo justice prédictive](vidéo.mp4)
 
 Ainsi, cela a pu nous permettre d’aiguiller nos recherches sur ce sujet, en recherchant l’action de Francis Lefebvre dans ce domaine grâce à sa base de données. 
 
