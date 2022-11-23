@@ -122,8 +122,7 @@ feed_show_tags: true
 # Add a search button to the navbar
 post_search: true
 
-# Add a button in the footer to 
-the current page. Only works if your website is hosted on GitHub
+# Add a button in the footer to the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
