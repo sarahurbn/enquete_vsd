@@ -13,6 +13,7 @@ Concernant l'histoire du groupe :
 Concernant la technique :
 
 - Latour (Bruno), “Le topofil de Boa Vista ou la référence scientifique-montage photo-philosophique”, Raisons pratiques, 1993.
+
 - Base de données des Editions Francis Lefebvre, accès à travers les ressources numériques de Sciences Po. 
 
 
@@ -33,7 +34,7 @@ ENS Saclay, “la justice à l’heure des algorithmes prédictifs”, https://e
 Concernant l'innovation au sein du groupe :
 
 - Thierry Kirat et Morgan Sweeney, "Une comparaison d'applications de "justice prédictive". Le cas du contentieux de l'indemnisation du licenciement abusif, 2016-2016. Prédictice, Dalloz-Jurisprudence chiffrée et JurisData Analytics", La Semaine juridique - édition générale , LexisNexis, 2019 (consulté le 08 novembre 2022)
-- 
+ 
 - Véronique MAUGERI, "Ok.doc : la recherche juridique augmentée par l'IA", Editions Francis Lefebvre Youtube, 2 juin 2022 (consulté le 10 novembre 2022, https://www.youtube.com/watch?v=OyWH6myUUGk et https://www.efl.fr/actualite/intelligence-artificielle-rendre-recherche-juridique-chronophage_fc3d02821-b6ee-4c46-a773-1d653c37d78b)
 
 
