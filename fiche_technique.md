@@ -19,7 +19,7 @@ Les bases de données juridiques, outil créé principalement au service des jur
 
 Cependant, en examinant la catégorisation opérée par Francis Lefebvre, on constate que, si le droit est catégorisé, étant codifié par nature, il n'y a pas qu'une seule forme de catégorisation possible. La base de données a donc un fonctionnement relativement complexe, que nous avons tenté d'élucider.
 
-Le droit est codifié par nature. Par exemple, ce qui est dans le Code du Commerce relève du droit commercial. En parallèle, on distingue aussi différents types de sources du droit : le droit existe en dehors des codes. Ainsi, la jurisprudence et la doctrine sont aussi des sources du droit majeures, utilisées par les juristes dans leur travail. Ainsi, on peut imaginer que les données soient organisées par spécialisation juridique (droit commercial, droit fiscal etc.), ou par sources du droit (loi, jurisprudence, doctrine. En réalité, on peut opérer une catégorisation en deux dimensions, ce qui est environ ce que fait Francis Lefebvre. 
+Le droit est codifié par nature. Par exemple, ce qui est dans le Code du Commerce relève du droit commercial. En parallèle, on distingue aussi différents types de sources du droit : le droit existe en dehors des codes. Ainsi, la jurisprudence et la doctrine sont aussi des sources du droit majeures, utilisées par les juristes dans leur travail. Ainsi, on peut imaginer que les données soient organisées par spécialisation juridique (droit commercial, droit fiscal etc.), ou par sources du droit (loi, jurisprudence, doctrine. En réalité, on peut opérer une catégorisation en deux dimensions, ce qui est environ ce que fait Francis Lefebvre. Cette catégorisation bidimensionnelle est intéressante car elle révèle certains parti-pris de l'éditeur.
 
 ## A - Une catégorisation selon le type de texte : 
 
@@ -36,8 +36,9 @@ Ce schéma met en évidence le fait qu'il s'agit d'une sorte de réseau : on voi
 
 Ainsi, la façon dont Francis Lefebvre a organisé l'accès aux données révèle une perception possible du droit : la jurisprudence vient agrémenter un argument juridique, dont la véritable substance se trouve ailleurs. C'est intéressant à note, puisque nous avons vu plus tard dans notre enquête que la justice prédictive mettait la jurisprudence au centre, étant donné qu'elle utilise des cas passés pour prévoir les cas futurs.
 
-# B - Une spécialisation selon les sources du droit 
+# B - Une catégorisation selon le type de droit :
 
+D'autre part, 
 le droit commercial inclut les dispositions 
 
 
