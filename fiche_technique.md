@@ -51,12 +51,30 @@ Comme évoqué dans notre partie sur les utilisateurs, Francis Lefebvre propose 
 
 ![screen disciplines](/images/disciplines.png/)
 
+Cette capture d'écran de la page de Francis Lefbebvre montre déjà (en jaune) l'importance des mémentos et le fait que ceux ci soient classés par discipline : sociétés commerciales, sociétés civiles, droit commercial, transmission d'entreprise, concurrence consommation. Il s'agit probablement des mémentos les plus populaires, s'agissant de pratiques très importantes dans la plupart des cabinets d'affaires. On voit ici que Francis Lefebvre a un fort tropisme vers le droit des affaires, ce qui destine l'éditeur à une clientèle particulière. On voit également que l'on peut sélectionner en haut (en rouge) la matière : Affaires, Associations, Comptable, Fiscal, Immobilier, Patrimoine, Social. Ici les domaines sont classés par ordre alphabétique. 
+
+Cette catégorisation est donc indissociable de la forte importance des mémentos sur Francis Lefebvre. De surcroît, elle révèle l'inclinaison de Francis Lefebvre pour le droit des affaires. 
+
+En dehors de ces grandes catégorisations, les juristes savent souvent ce qu'ils cherchent et naviguent rarement sans objectif précis. C'est là qu'interviennent les mots clé (C). 
+
 # C - Les mots clé 
+
 
 La recherche de mots-clé sur Francis Lefebvre suit un format sophistiqué. Ainsi, on peut voir que l'éditeur a organisé les mots clés sous forme d'arbre logique : avec des connecteurs logiques permettant de combiner intelligemment les mots-clé. Voir ici à quoi cela ressemble : 
 
 ![screen mots clé](/images/motcle.png/)
 
+Voici un exemple de combination de mots-clé :
+
+![screen mots clé](/images/motcleillustre.png/)
+
+On obtient à la fin une expression logique, affichée sur le site, qui sera évaluée par un programme informatique, probablement à l'aide d'expressions booléennes, pour trouver les résultats pertinents :
+
+*( (exception de nullité) ET (litispendance) ) OU ( (fin de non recevoir) SAUF (prescription) )*
+
+Ici, nous aurons tous les résultats qui regroupent soit l'exception de nullité avec obligatoirement la litispendance, soit la fin de non recevoir avec forcément la prescription. C'est utile car cela permet une grande flexibilité dans les recherches, notamment lorsque l'on n'est pas certain de l'orientation d'une affaire. 
+
+L'exemple des mots-clé illustre à quel point la numérisation des bases de données juridiques peut être un outil extrêmement utile pour des juristes, car ce genre de combinations dans les recherches ne sont possibles que grâce aux algorithmes et à la numérisation des données. Ainsi, les recherches ne sont pas seulement plus rapides, mais aussi plus précises, et peut-être complètes. On pourrait aussi argumenter, qu'au contraire, le fait de se reposer sur des algorithmes pourrait peut-être faire perdre quelques informations, surtout que l'on dépend des choix de design et d'agrégation des données d'un éditeur privé. En réalité, cela dépend probablement de l'utilisation que chacun en fait, et utilisées à bon escient, ces bases de données peuvent être un outil redoutable, et d'ailleurs très peu de juristes s'en passent. 
 
 # Conclusion de la partie 
 
