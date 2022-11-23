@@ -10,7 +10,8 @@ Celle-ci va se construire principalement par les bases de données juridiques, F
 
 La justice prédictive selon le Rapport Cadiet est un « ensemble d’instruments développés grâce à l’analyse de grandes masses de données de justice qui proposent, notamment à partir d’un calcul de probabilités, de prévoir autant qu’il est possible l’issue d’un litige ». C’est pourquoi il est primordial, à l’heure de l’avènement de l’intelligence artificielle qui bouleverse le monde, et touche ainsi le domaine du droit, de pouvoir s’en servir afin d’évoluer la façon dont on produit les décisions.
 
-Lors de l’interview, nous avons pu interroger Héloïse Eloï Hammer sur ce sujet. Elle a pu nous partager ses connaissances générales en la matière, et surtout concernant les limites de ce concept. Voici la retranscription vidéo :
+Lors de l’interview, nous avons pu interroger Héloïse Eloï Hammer sur ce sujet. Elle a pu nous partager ses connaissances générales en la matière, et surtout concernant les limites de ce concept. Voici le lien de la retranscription vidéo : [Interview d'Heloïse Eloi-Hammer sur la justice prédictive](https://drive.google.com/file/d/1GPv1HpbBV60DiJVquee4uxOaIwoCDTUy/view?usp=sharing).
+
 
 
 ![Vidéo justice prédictive](vidéo.mp4)
