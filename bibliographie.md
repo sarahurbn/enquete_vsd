@@ -5,7 +5,7 @@ subtitle: Ressources consultées lors de notre enquête
 ---
 
 Concernant l'histoire du groupe : 
-* https://www.precisement.org/blog/Francis-Lefebvre-rachete-Dalloz.html
+* (https://www.precisement.org/blog/Francis-Lefebvre-rachete-Dalloz.html)
 * https://www.lefebvre-sarrut.eu/qui-sommes-nous/
 
 Concernant la justice prédictive : 
