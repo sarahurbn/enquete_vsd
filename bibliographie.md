@@ -34,10 +34,10 @@ Concernant Oppus :
 
 Concernant les legaltechs : 
 
--	S.-A.H, « Qu’est-ce qu’une legaltech ? », Dalloz Actu Étudiant, 29 septembre 2017 (consulté le 13 novembre 2021, https://actu.dalloz-etudiant.fr/a-la-une/article/quest-ce-quune-legaltech/h/90bfcb3177734911f1efb03ecbbc1503.html )  
--	Audrey Tabuteau et Marie Bernard, « Quel avenir pour la LegalTech ? », site Francis Lefebvre, 4 juillet 2019,  (consulté le 13 novembre 2021, https://www.efl.fr/actualite/avenir-legal-tech_f8429a61a-ff5f-488d-8292-4500b5cd18a5 ) 
--	Francis Lefebvre, « Concours LegalTech-RegTech Lefebvre Sarrut et Le Village by CA : qui seront les heureux gagnants ? »,  20 mars 2019, (consulté le 13 novembre 2021, https://www.efl.fr/actualite/concours-legal-tech-reg-tech-lefebvre-sarrut-village-by-seront-heureux-gagnants_R-042ca2cc-5f3a-4b83-805a-2c97ca38935c ) 
--	Banque des Territoires, Veille LegalTech « Actualité legaltech : que s’est-il passé ces derniers mois ? », 7 septembre 2022 (consulté le 13 novembre 2021, https://www.banquedesterritoires.fr/legaltech/actualites/actualite-legaltech-que-sest-il-passe-ces-derniers-mois ) 
--	Communiqué de presse Lefebvre Sarrut du 31 mai 2022, (consulté le 14 novembre 2021, https://www.lefebvre-sarrut.eu/2022/05/31/communique-de-presse-6-startups-selectionnees-pour-la-2e-edition-de-lightspeed-laccelerateur-europeen-du-groupe-lefebvre-sarrut/ ) 
+-	S.-A.H, « Qu’est-ce qu’une legaltech ? », Dalloz Actu Étudiant, 29 septembre 2017 (consulté le 13 novembre 2022, https://actu.dalloz-etudiant.fr/a-la-une/article/quest-ce-quune-legaltech/h/90bfcb3177734911f1efb03ecbbc1503.html )  
+-	Audrey Tabuteau et Marie Bernard, « Quel avenir pour la LegalTech ? », site Francis Lefebvre, 4 juillet 2019,  (consulté le 13 novembre 2022, https://www.efl.fr/actualite/avenir-legal-tech_f8429a61a-ff5f-488d-8292-4500b5cd18a5 ) 
+-	Francis Lefebvre, « Concours LegalTech-RegTech Lefebvre Sarrut et Le Village by CA : qui seront les heureux gagnants ? »,  20 mars 2019, (consulté le 13 novembre 2022, https://www.efl.fr/actualite/concours-legal-tech-reg-tech-lefebvre-sarrut-village-by-seront-heureux-gagnants_R-042ca2cc-5f3a-4b83-805a-2c97ca38935c ) 
+-	Banque des Territoires, Veille LegalTech « Actualité legaltech : que s’est-il passé ces derniers mois ? », 7 septembre 2022 (consulté le 13 novembre 2022, https://www.banquedesterritoires.fr/legaltech/actualites/actualite-legaltech-que-sest-il-passe-ces-derniers-mois ) 
+-	Communiqué de presse Lefebvre Sarrut du 31 mai 2022, (consulté le 14 novembre 2022, https://www.lefebvre-sarrut.eu/2022/05/31/communique-de-presse-6-startups-selectionnees-pour-la-2e-edition-de-lightspeed-laccelerateur-europeen-du-groupe-lefebvre-sarrut/ ) 
 
 
