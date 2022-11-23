@@ -4,10 +4,11 @@ title: Comment la base de données est-elle organisée ?
 subtitle: Il convient de s'interroger sur les catégories utilisées par Francis Lefebvre pour représenter les données juridiques.
 ---
 
-Concernant la partie technique de notre enquête, Heloïse Eloi-Hammer nous a expliqué qu'il allait être difficile, voire impossible d'accéder aux algorithmes internes des grands éditeurs juridiques. 
-*Voici la partie de son interview consacrée aux algorithmes qui alimentent l'accès aux bases de données juridiques* : [Lien vers la partie de l'interview d'Heloïse Hammer sur les algorithmes](https://drive.google.com/file/d/1AHTusoP4iFacLxFLUWxg-H3TtVhB97Aj/view?usp=sharing)
+Concernant la partie technique de notre enquête, Heloïse Eloi-Hammer nous a expliqué qu'il allait être difficile, voire impossible d'accéder aux algorithmes internes des grands éditeurs juridiques, notamment en matière de "ranking" : le classement des résultats obtenus selon leur importance.  
+*Voici la partie de son interview consacrée aux algorithmes qui alimentent l'accès aux bases de données juridiques* : [Lien vers la partie de l'interview d'Heloïse Eloi-Hammer sur les algorithmes](https://drive.google.com/file/d/1AHTusoP4iFacLxFLUWxg-H3TtVhB97Aj/view?usp=sharing)
 
-Ainsi, nous avons focalisé notre travail sur l'accès aux données par l'utilisateur, et les choix qui ont été faits par l'éditeur, notamment en matière de catégorisation, ce qui est accessible pour nous puisque nous sommes nous mêmes utilisateurs de la base de données et utilisons ces catégories pour effectuer des recherches juridiques. 
+Cependant, Heloïse Eloi-Hammer nous a expliqué que ce qui différenciait également les éditeurs, en dehors des critères de ranking, c'étaient aussi les modalités proposées sur le site. Ces modalités regroupent le fonctionnement des filtres, la présence d'abstracts, du surlignage etc. En effet, selon la doctorante, les critères de ranking, bien que confidentiels dans leur "recette" exacte, seraient en réalité souvent assez similaires : caractère récent de la décision, degré de la juridiction (Cour de Cassation versus 1ère instance par exemple), et le nombre de commentaires de la décision. Comme nous ne pouvions pas avoir accès aux algorithmes précis, nous nous sommes focalisés surtout sur la partie accessible à l'utilisateur, les modalités de l'accès à la base de données par le biais du moteur Navis créé par Francis Lefebvre. Cet accès sera analysé sous le point de vue de la catégorisation. 
+
 
 ## Les enjeux de la catégorisation juridique
 
@@ -29,8 +30,12 @@ Le droit est codifié par nature. Par exemple, ce qui est dans le Code du Commer
 
 On voit d'abord que les données sont caractérisées par type de texte : lois, jurisprudence, etc.
 
-**Mettre screens du moteur de recherche ici avec critères etc plus autre schema fait **
+On voit bien ici que les données sont organisées selon le type de texte : 
+![Screen moteur recherches](/images/moteur.png)
 
+
+![
+**Mettre screens du moteur de recherche ici avec critères etc plus autre schema fait **
 
 En naviguant avec Navis, le moteur de recherches de Francis Lefebvre, on peut voir que cette catégorisation par type est intéressante, car les différents types de données sont interconnectés. De plus, ces différents types de données ne sont pas accessibles de la même manière. Voici un schéma qui illustre, à titre d'exemple, comment sont interconnectés Mementos créés par Francis Lefebvre, textes de loi et données jurisprudentielles. 
 
