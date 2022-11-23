@@ -41,19 +41,30 @@ De plus, à un niveau plus macro, ces différents types de données ne sont pas 
 
 Ce schéma met en évidence le fait qu'il s'agisse d'une sorte de **réseau** : on voit bien qu'il y a une interconnexion importante, et l'organisation de la base de données, ou du moins l'organisation de son accès n'est pas linéaire. Cependant, comme en attestent les flèches bleues (hyperlien) et noires (pas de lien, simple mention), les connexions ne sont pas toutes aussi fortes les unes que les autres. En particulier, on identifie le fait que la jurisprudence ne soit pas accessible directement par l'utilisateur : au lieu de chercher parmi une liste de jurisprudences, comme c'est le cas dans d'autres moteurs de recherche comme Lexis Nexis et Dalloz, les jurisprudences ne sont accessiblles que si elles sont accessibles dans un mémento (ou un texte de doctrine par exemple, mais nous ne l'avons pas pris en compte ici pour avoir un schéma plus clair et simplifié).
 
-Ainsi, la façon dont Francis Lefebvre a organisé l'accès aux données révèle une perception possible du droit : la jurisprudence vient agrémenter un argument juridique, dont la véritable substance se trouve ailleurs. C'est intéressant à note, puisque nous avons vu plus tard dans notre enquête que la justice prédictive mettait la jurisprudence au centre, étant donné qu'elle utilise des cas passés pour prévoir les cas futurs.
+Ainsi, la façon dont Francis Lefebvre a organisé l'accès aux données révèle une perception possible du droit : la jurisprudence vient agrémenter un argument juridique, dont la véritable substance se trouve ailleurs. C'est intéressant à noter, puisque nous avons vu plus tard dans notre enquête que la justice prédictive mettait la jurisprudence au centre, étant donné qu'elle utilise des cas passés pour prévoir les cas futurs.
 
-D'ailleurs, la "hiérarchisation" des sources opérée par Francis Lefebvre sur, connu d'ailleurs dans le monde du droit pour ses mémentos, est étroitement liée à un deuxième type de catégorisation : la catégorisation selon la discipline juridique. En effet, chaque mémento est thématique, selon la pratoque visée (B). 
+La "hiérarchisation" des sources opérée par Francis Lefebvre, connu d'ailleurs dans le monde du droit pour ses mémentos, est étroitement liée à un deuxième type de catégorisation : la catégorisation selon la discipline juridique. En effet, chaque mémento est thématique, selon la pratique visée (B). 
 
 # B - Une catégorisation selon la discipline juridique :
 
-D'autre part, 
-le droit commercial inclut les dispositions 
+Comme évoqué dans notre partie sur les utilisateurs, Francis Lefebvre propose un certain nombre de matières : comptabilité, Social, Droit des affaires, Immobilier, Fiscal, Civil-Patrimoine, Gestion Finance, Particulier, Association, International. La catégorisation par sources du droit est clairement dominante, car c'est elle qui est utilisée en priorité pour filtrer. Cepdant, étant donné que les mémentos sont le coeur du moteur et que ceux-ci sont catégorisés par discipline, cette catégorisation est importante aussi. 
+
+![screen disciplines](/images/disciplines.png/)
+
+# C - Les mots clé 
+
+La recherche de mots-clé sur Francis Lefebvre suit un format sophistiqué. Ainsi, on peut voir que l'éditeur a organisé les mots clés sous forme d'arbre logique : avec des connecteurs logiques permettant de combiner intelligemment les mots-clé. Voir ici à quoi cela ressemble : 
+
+![screen mots clé](/images/motcle.png/)
 
 
+# Conclusion de la partie 
+
+Notre partie technique a été relativement limitée car nous n'avons pas eu accès aux algorithmes de Francis Lefebvre, ni même eu la chance de parler à une personne en interne qui aurait pu nous donner des grandes lignes sur les techniques employées. Nous nous sommes donc limités à analyser les données publiquement disponibles, pour tenter de comprendre la philosophie de l'éditeur dans la mise à disposition des données juridiques pour les utilisateurs. Cette partie nous donc également appris, que, comme nous l'a bien indiqué Héloïse Eloi-Hammer dans son interview, les algorithmes de ranking ne font pas tout : il y a plein d'autres choix à faire dans la création d'une base de données juridiques, des choix évidents au premier abord puisque le droit est codifié par nature, mais qui ne sont pas si évidents que cela en réalité puisque différents éditeurs ont différentes approches. 
+
+Suite à d'autres prises de contact pour notre projet, nous avons ensuite orienté notre enquête vers le besoin d'innovation des bases de données juridiques. En effet, comme dans la plupart des domaines aujourd'hui l'émergence de l'Intelligence Artificielle, et plus particulièrement du Machine Learning ont grandement changé la donne. Nous sommes donc allés analyser [la justice prédictive](https://sarahurbn.github.io/enquete_vsd/justice_predictive/), [l'innovation au sein de Francis Lefebvre](https://sarahurbn.github.io/enquete_vsd/innov/) et enfin [la coopération de l'éditeur avec la start-up Oppus](https://sarahurbn.github.io/enquete_vsd/startups/).
 
 
-D'ailleurs, il est intéressant de voir que la jurisprudence n'est pas accessible par accès direct alors que c'est elle qui fonde la justice prédictive = REFORMULER
 
 
 
