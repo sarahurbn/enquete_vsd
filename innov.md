@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L'innovation au sein du groupe
-subtitle: Dans cette section, nous expliquons quelle méthodologie nous avons employée pour cette enquête et à quelles limites nous avons été confrontés.
+subtitle: Etude de cas d'Ok.Doc, projet par Francis Lefebvre
 ---
 
 # Utilisation de la base de données Francis Lefebvre et Dalloz par Ok.Doc
