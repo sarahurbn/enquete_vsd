@@ -12,4 +12,4 @@ Celui-ci utilise le machine learning et les algorithmes d’intelligence artific
 
 Ok.Doc s’est construit avec des juristes, qui sont les testeurs des fonctionnalités. L’objectif est d’avoir des résultats clairs et cohérents avec la question posée grâce à l’intelligence artificielle qui se base sur les documents présents dans la base de données. L’algorithme agrège les données similaires par la comparaison des mots pour pouvoir construire une réponse pertinente.
 
-Ok.Doc est testable sur le site de la base de données Francis Lefebvre. Il est devenu une composante de celle-ci désormais. Bien que Ok.Doc ne soit pas encore optimisé au maximum, cela peut être une innovation qui révolutionnera le monde du droit selon Véronique MAUGERI (Product Manager R&D - Lefebvre Dalloz).
+Ok.Doc est testable sur le site de la base de données Francis Lefebvre. Il est devenu une composante de celle-ci désormais. 
