@@ -33,11 +33,13 @@ On voit d'abord que les données sont caractérisées par type de texte : lois, 
 On voit bien ici que les données sont organisées selon le type de texte : 
 ![Screen moteur recherches](/images/moteur.png)
 
+*Illustration de l'organisation des données au niveau micro* :
+![schéma micro](/images/schema_micro.png)
 
-![
+
 **Mettre screens du moteur de recherche ici avec critères etc plus autre schema fait **
 
-En naviguant avec Navis, le moteur de recherches de Francis Lefebvre, on peut voir que cette catégorisation par type est intéressante, car les différents types de données sont interconnectés. De plus, ces différents types de données ne sont pas accessibles de la même manière. Voici un schéma qui illustre, à titre d'exemple, comment sont interconnectés Mementos créés par Francis Lefebvre, textes de loi et données jurisprudentielles. 
+En naviguant avec Navis, le moteur de recherches de Francis Lefebvre, on peut voir que cette catégorisation par type est intéressante, car les différents types de données sont interconnectés. De plus, ces différents types de données ne sont pas accessibles de la même manière. Voici un schéma qui illustre, au niveau macro, comment sont interconnectés Mementos créés par Francis Lefebvre, textes de loi et données jurisprudentielles. 
 
 ![Schéma donnée](/images/schema_donnees.png)
 
