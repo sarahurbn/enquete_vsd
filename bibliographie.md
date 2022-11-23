@@ -6,41 +6,42 @@ subtitle: Ressources consultées lors de notre enquête
 
 Concernant l'histoire du groupe : 
 
-- Blog precisement.org, “Francis Lefebvre rachète Dalloz”, https://www.precisement.org/blog/Francis-Lefebvre-rachete-Dalloz.html, Emmanuelle Barthe [consulté le 2 octobre 2022]
+- Blog precisement.org, “Francis Lefebvre rachète Dalloz”, Emmanuelle Barthe, juin 2005, [consulté le 2 octobre 2022, https://www.precisement.org/blog/Francis-Lefebvre-rachete-Dalloz.html ]
 
-- Lefebvre-Sarrut, “Qui sommes-nous”, https://www.lefebvre-sarrut.eu/qui-sommes-nous/ [consulté le 5 octobre 2022]
+- Lefebvre-Sarrut, “Qui sommes-nous”, [consulté le 5 octobre 2022, https://www.lefebvre-sarrut.eu/qui-sommes-nous/]
 
-Concernant la technique :
 
-- Latour (Bruno), “Le topofil de Boa Vista ou la référence scientifique-montage photo-philosophique”, Raisons pratiques, 1993.
+Concernant la partie technique : 
+
+- Bruno Latour, “Le topofil de Boa Vista ou la référence scientifique-montage photo-philosophique”, Raisons pratiques, 1993.
 
 - Base de données des Editions Francis Lefebvre, accès à travers les ressources numériques de Sciences Po. 
 
 
 Concernant la justice prédictive : 
 
-- Lexweb, “la révolution de la justice prédictive”, http://www.lexweb.fr/la-revolution-de-la-justice-predictive-interview-du-fondateur-du-site-predictice/, LW [consulté le 2 novembre 2022]
+- Cairn.info, Archives de philosophie du droit, La justice prédictive, Introduction à une justice « simplement » virtuelle , Sylvie Lebreton-Derrien, 19 juin 2021 [consulté le 3 novembre 2022, https://www.cairn.info/revue-archives-de-philosophie-du-droit-2018-1-page-3.html ]
 
-- Predictice.com “Qu’est ce que la justice prédictive”, https://blog.predictice.com/quest-ce-que-la-justice-pr%C3%A9dictive - Pauline Bousch [consulté le 2 novembre 2022]
+- ENS Saclay, “la justice à l’heure des algorithmes prédictifs”, [consulté le 4 novembre 2022, https://ens-paris-saclay.fr/actualite/la-justice-lheure-des-algorithmes-predictifs ]
 
-- Cairn.info, Archives de philosophie du droit, La justice prédictive, Introduction à une justice « simplement » virtuelle , https://www.cairn.info/revue-archives-de-philosophie-du-droit-2018-1-page-3.html - Sylvie Lebreton-Derrien [consulté le 3 novembre 2022]
+- La Tribune, “La justice prédictive, avancée ou danger ?”, Patrick Cappelli, 3 mai 2019  [consulté le 4 novembre 2022, https://www.latribune.fr/technos-medias/innovation-et-start-up/la-justice-predictive-avancee-ou-danger-815925.html ]
 
-- Podcast radiofrance, “Algorithmes prédictifs, la nouvelle boule de cristal?”, https://www.radiofrance.fr/franceculture/podcasts/la-methode-scientifique/algorithmes-predictifs-la-nouvelle-boule-de-cristal-5538377 - avec Claire Mathieu et Cédric Gouy-Pailler [consulté le 4 novembre 2022]
+- Lexweb, “la révolution de la justice prédictive”, LW, 3 mai 2017 [consulté le 2 novembre 2022, http://www.lexweb.fr/la-revolution-de-la-justice-predictive-interview-du-fondateur-du-site-predictice/]
 
-- La Tribune, “La justice prédictive, avancée ou danger ?”, https://www.latribune.fr/technos-medias/innovation-et-start-up/la-justice-predictive-avancee-ou-danger-815925.html - Patrick Cappelli [consulté le 4 novembre 2022]
-ENS Saclay, “la justice à l’heure des algorithmes prédictifs”, https://ens-paris-saclay.fr/actualite/la-justice-lheure-des-algorithmes-predictifs [consulté le 4 novembre 2022]
+- Podcast radiofrance, “Algorithmes prédictifs, la nouvelle boule de cristal?”, avec Claire Mathieu et Cédric Gouy-Pailler, 27 juin 2018 [consulté le 4 novembre 2022, https://www.radiofrance.fr/franceculture/podcasts/la-methode-scientifique/algorithmes-predictifs-la-nouvelle-boule-de-cristal-5538377 ]
+
+- Predictice.com “Qu’est ce que la justice prédictive”, Pauline Bousch, 15 septembre 2020 [consulté le 2 novembre 2022, https://blog.predictice.com/quest-ce-que-la-justice-pr%C3%A9dictive ]
 
 
 Concernant l'innovation au sein du groupe :
 
 - Thierry Kirat et Morgan Sweeney, "Une comparaison d'applications de "justice prédictive". Le cas du contentieux de l'indemnisation du licenciement abusif, 2016-2016. Prédictice, Dalloz-Jurisprudence chiffrée et JurisData Analytics", La Semaine juridique - édition générale , LexisNexis, 2019 (consulté le 08 novembre 2022)
  
-- Véronique MAUGERI, "Ok.doc : la recherche juridique augmentée par l'IA", Editions Francis Lefebvre Youtube, 2 juin 2022 (consulté le 10 novembre 2022, https://www.youtube.com/watch?v=OyWH6myUUGk et https://www.efl.fr/actualite/intelligence-artificielle-rendre-recherche-juridique-chronophage_fc3d02821-b6ee-4c46-a773-1d653c37d78b)
+- Véronique Maugeri, "Ok.doc : la recherche juridique augmentée par l'IA", Editions Francis Lefebvre Youtube, 2 juin 2022 (consulté le 10 novembre 2022, https://www.youtube.com/watch?v=OyWH6myUUGk et https://www.efl.fr/actualite/intelligence-artificielle-rendre-recherche-juridique-chronophage_fc3d02821-b6ee-4c46-a773-1d653c37d78b)
 
 
 
 Concernant Oppus : 
-
 -	Site d’Oppus : https://www.oppus.fr 
 -	Communiqué de presse Lefebvre Sarrut du 8 avril 2021, (consulté le 14 novembre 2021,  https://www.lefebvre-sarrut.eu/2021/04/08/communique-de-presse-le-groupe-lefebvre-sarrut-et-la-startup-oppus-concretisent-deux-annees-de-collaboration-et-creent-oppus-x-lefebvre-dalloz/ ) 
 -	Podcast Du Vent Sous la Robe, « Oppus, ou comment construire un projet inovant en unissant les forces d’un grand groupe et d’une start-up ? – Alassane Samb, Camille Sztejnhorn et Mathieu Bouillon », 5 octobre 2021 (consulté le 14 novembre 2021, https://du-vent-sous-la-robe.com/episode/oppus-ou-comment-construire-un-projet-innovant-en-unissant-les-forces-dun-grand-groupe-et-dune-start-up-alassane-samb-camille-sztejnhorn-et-mathieu-bouillon/) 
