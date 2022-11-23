@@ -64,15 +64,15 @@ La recherche de mots-clé sur Francis Lefebvre suit un format sophistiqué. Ains
 
 ![screen mots clé](/images/motcle.png/)
 
-Voici un exemple de combination de mots-clé :
+*Voici un exemple de combination de mots-clé :*
 
 ![screen mots clé](/images/motcleillustre.png/)
 
-On obtient à la fin une expression logique, affichée sur le site, qui sera évaluée par un programme informatique, probablement à l'aide d'expressions booléennes, pour trouver les résultats pertinents :
+On obtient à la fin une expression logique, affichée sur le site, qui sera évaluée par un programme informatique sachant interpréter ces expressions booléennes, probablement à l'aide d'expressions booléennes, pour trouver les résultats pertinents :
 
-*( (exception de nullité) ET (litispendance) ) OU ( (fin de non recevoir) SAUF (prescription) )*
+**( (exception de nullité) ET (litispendance) ) OU ( (fin de non recevoir) SAUF (prescription) )**
 
-Ici, nous aurons tous les résultats qui regroupent soit l'exception de nullité avec obligatoirement la litispendance, soit la fin de non recevoir avec forcément la prescription. C'est utile car cela permet une grande flexibilité dans les recherches, notamment lorsque l'on n'est pas certain de l'orientation d'une affaire. 
+Ici, nous aurons tous les résultats qui regroupent soit l'exception de nullité avec obligatoirement la litispendance, soit la fin de non recevoir avec en excluant la prescription, qui est l'une des fins de non recevoir. Ce système de filtrage par expressions booléennes est utile car cela permet une grande flexibilité dans les recherches, notamment lorsque l'on n'est pas certain de l'orientation d'une affaire. 
 
 L'exemple des mots-clé illustre à quel point la numérisation des bases de données juridiques peut être un outil extrêmement utile pour des juristes, car ce genre de combinations dans les recherches ne sont possibles que grâce aux algorithmes et à la numérisation des données. Ainsi, les recherches ne sont pas seulement plus rapides, mais aussi plus précises, et peut-être complètes. On pourrait aussi argumenter, qu'au contraire, le fait de se reposer sur des algorithmes pourrait peut-être faire perdre quelques informations, surtout que l'on dépend des choix de design et d'agrégation des données d'un éditeur privé. En réalité, cela dépend probablement de l'utilisation que chacun en fait, et utilisées à bon escient, ces bases de données peuvent être un outil redoutable, et d'ailleurs très peu de juristes s'en passent. 
 
