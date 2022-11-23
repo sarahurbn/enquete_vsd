@@ -28,6 +28,8 @@ Le droit est codifié par nature. Par exemple, ce qui est dans le Code du Commer
 
 ## A - Une catégorisation selon le type de texte : 
 
+Dans notre partie sur les utilisateurs, nous avons déjà montré un schéma expliquant le fonctionnement d'une recherche sur Francis Lefebvre : [Lien vers la page Utilisateurs](https://sarahurbn.github.io/enquete_vsd/utilisateurs/).
+
 On voit d'abord que les données sont caractérisées par type de texte : lois, jurisprudence, etc. Ce sont les mémentos qui semblent être au coeur du moteur de recherches de Francis Lefebvre. En effet, nous avons représenté ici un schéma de la page "biens à partager" du Mémento Droit commercial. C'est le mémento qui référence les autres textes : 
 ![schéma micro](/images/schema_micro.png)
 
