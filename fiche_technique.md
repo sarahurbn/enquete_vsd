@@ -34,7 +34,7 @@ On voit d'abord que les données sont caractérisées par type de texte : lois, 
 
 En naviguant avec Navis, le moteur de recherches de Francis Lefebvre, on peut voir que cette catégorisation par type est intéressante, car les différents types de données sont interconnectés. De plus, ces différents types de données ne sont pas accessibles de la même manière. Voici un schéma qui illustre, à titre d'exemple, comment sont interconnectés Mementos créés par Francis Lefebvre, textes de loi et données jurisprudentielles. 
 
-![Schéma donnée](/images/schema_donnees)
+![Schéma donnée](/images/schema_donnees.png)
 
 Ce schéma met en évidence le fait qu'il s'agit d'une sorte de réseau : on voit bien qu'il y a une interconnexion importante. Cependant, comme en attestent les flèches bleues (hyperlien) et noires (pas de lien, simple mention), les connexions ne sont pas toutes aussi fortes les unes que les autres. En particulier, on identifie le fait que la jurisprudence ne soit pas accessible directement par l'utilisateur : au lieu de chercher parmi une liste de jurisprudences, comme c'est le cas dans d'autres moteurs de recherche comme Lexis Nexis et Dalloz, les jurisprudences ne sont accessiblles que si elles sont accessibles dans un mémento (ou un texte de doctrine par exemple, mais nous ne l'avons pas pris en compte ici pour avoir un schéma plus clair et simplifié).
 
