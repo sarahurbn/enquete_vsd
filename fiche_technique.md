@@ -57,10 +57,10 @@ Cette catégorisation est donc indissociable de la forte importance des mémento
 
 En dehors de ces grandes catégorisations, les juristes savent souvent ce qu'ils cherchent et naviguent rarement sans objectif précis. C'est là qu'interviennent les mots clé (C). 
 
-# C - Les mots clé 
+# C - Les mots-clés 
 
-La recherche de mots-clé sur Francis Lefebvre suit un format sophistiqué. Ainsi, on peut voir que l'éditeur a organisé les mots clés sous forme d'**arbre logique**. Cette recherche s'appuie sur des connecteurs logiques permettant de combiner intelligemment les termes que l'on souhaite trouver ou éliminer. 
-Concrètement, voici à quoi ressemble la recherche par mots-clé : 
+La recherche de mots-clés sur Francis Lefebvre suit un format sophistiqué. Ainsi, on peut voir que l'éditeur a organisé les mots clés sous forme d'**arbre logique**. Cette recherche s'appuie sur des connecteurs logiques permettant de combiner intelligemment les termes que l'on souhaite trouver ou éliminer. 
+Concrètement, voici à quoi ressemble la recherche par mots-clés : 
 
 ![screen mots clé](/images/motcle.png/)
 
@@ -70,13 +70,11 @@ Concrètement, voici à quoi ressemble la recherche par mots-clé :
 
 On obtient à la fin une expression logique, affichée sur le site, qui sera évaluée par un **algorithme sachant interpréter ces expressions booléennes**, pour trouver les résultats pertinents :
 
- </span>
-
 <span style = "color:orange">( (exception de nullité) ET (litispendance) )</span> OU <span style = "color:blue"> ( (fin de non recevoir) SAUF (prescription) )<span>
 
 Ici, nous aurons tous les résultats qui regroupent soit <span style = "color:orange"> l'exception de nullité avec obligatoirement la litispendance</span>, soit <span style = "color:blue">la fin de non recevoir en excluant la prescription</span>, qui est l'une des fins de non recevoir. Ce système de filtrage par expressions booléennes est utile car cela permet une grande flexibilité dans les recherches, notamment lorsque l'on n'est pas certain de l'orientation d'une affaire. 
 
-L'exemple des mots-clé illustre à quel point la numérisation des bases de données juridiques peut être un outil extrêmement utile pour des juristes, car ce genre de combinations dans les recherches n'est possible que grâce aux algorithmes et à la numérisation des données. Ainsi, les recherches ne sont pas seulement plus rapides, mais aussi plus précises, et peut-être complètes. On pourrait aussi argumenter, qu'au contraire, le fait de se reposer sur des algorithmes pourrait peut-être faire perdre quelques informations, surtout que l'on dépend des choix de design et d'agrégation des données d'un éditeur. En réalité, cela dépend probablement de l'utilisation que chacun en fait, et **utilisées à bon escient, ces bases de données peuvent être un outil redoutable, et d'ailleurs très peu de juristes s'en passent**. 
+L'exemple des mots-clés illustre à quel point la numérisation des bases de données juridiques peut être un outil extrêmement utile pour des juristes, car ce genre de combinations dans les recherches n'est possible que grâce aux algorithmes et à la numérisation des données. Ainsi, les recherches ne sont pas seulement plus rapides, mais aussi plus précises, et peut-être complètes. On pourrait aussi argumenter, qu'au contraire, le fait de se reposer sur des algorithmes pourrait peut-être faire perdre quelques informations, surtout que l'on dépend des choix de design et d'agrégation des données d'un éditeur. En réalité, cela dépend probablement de l'utilisation que chacun en fait, et **utilisées à bon escient, ces bases de données peuvent être un outil redoutable, et d'ailleurs très peu de juristes s'en passent**. 
 
 # Conclusion de la partie 
 
