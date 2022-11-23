@@ -14,7 +14,7 @@ Lors de la semaine de pré-rentrée de l'Ecole de Droit de Sciences Po Paris, no
  
 A ce titre, nous avons, tout d'abord, contacté une bibliothécaire en charge des ressources numériques à Sciences Po Paris. 
  
-Cette dernière a répondu à nos différentes questions lors d'un entretien téléphonique réalisé le 7 octobre 2020. 
+Cette dernière a répondu à nos différentes questions lors d'un entretien téléphonique réalisé le 7 octobre 2022. 
  
 Elle nous a expliqué le fonctionnement global de la plateforme. Toutefois, n'étant pas spécialiste de Lexis Nexis, elle n'était pas en mesure de répondre aux questions techniques concernant cette base de données. Elle a donc décidé de nous mettre en contact avec un ingénieur commercial grands comptes chez LexisNexis.
  
