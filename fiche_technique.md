@@ -41,6 +41,12 @@ De plus, à un niveau plus macro, ces différents types de données ne sont pas 
 
 Ce schéma met en évidence le fait qu'il s'agisse d'une sorte de **réseau** : on voit bien qu'il y a une interconnexion importante, et l'organisation de la base de données, ou du moins l'organisation de son accès n'est pas linéaire. Cependant, comme en attestent les flèches bleues (hyperlien) et noires (pas de lien, simple mention), les connexions ne sont pas toutes aussi fortes les unes que les autres. En particulier, on identifie le fait que la jurisprudence ne soit pas accessible directement par l'utilisateur : au lieu de chercher parmi une liste de jurisprudences, comme c'est le cas dans d'autres moteurs de recherche comme Lexis Nexis et Dalloz, les jurisprudences ne sont accessiblles que si elles sont accessibles dans un mémento (ou un texte de doctrine par exemple, mais nous ne l'avons pas pris en compte ici pour avoir un schéma plus clair et simplifié).
 
+Etant donné que nous n'avions accès qu'à l'interface publique, il nous a été difficile d'analyser l'infrastructure de la base de données. En revanche, nous avons bien pu voir en inspectant le site, comment étaient liées les données. Dans cet exemple par exemple, nous avons inspecté le lien sur un article dans le Code Civil dans le mémento sur les sociétés commerciales : 
+
+![screen lien](/images/screen_lien.png)
+
+'<a class="link" href="/EFL2/convert/id/?id=CCIV171653" onclick="documentLink('CCIV171653');return false">C. civ. art. 388-1-1</a>'
+
 Ainsi, la façon dont Francis Lefebvre a organisé l'accès aux données révèle une perception possible du droit : la jurisprudence vient agrémenter un argument juridique, dont la véritable substance se trouve ailleurs. C'est intéressant à note, puisque nous avons vu plus tard dans notre enquête que la justice prédictive mettait la jurisprudence au centre, étant donné qu'elle utilise des cas passés pour prévoir les cas futurs.
 
 D'ailleurs, la "hiérarchisation" des sources opérée par Francis Lefebvre sur, connu d'ailleurs dans le monde du droit pour ses mémentos, est étroitement liée à un deuxième type de catégorisation : la catégorisation selon la discipline juridique. En effet, chaque mémento est thématique, selon la pratoque visée (B). 
