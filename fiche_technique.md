@@ -4,10 +4,14 @@ title: Comment la base de données est-elle organisée ?
 subtitle: Il convient de s'interroger sur les catégories utilisées par Francis Lefebvre pour représenter les données juridiques.
 ---
 
+Concernant la partie technique de notre enquête, Heloïse Eloi-Hammer nous a expliqué qu'il allait être difficile, voire impossible d'accéder aux algorithmes internes des grands éditeurs juridiques. 
+*Voici la partie de son interview consacrée aux algorithmes qui alimentent l'accès aux bases de données juridiques* : [Lien vers la partie de l'interview d'Heloïse Hammer sur les algorithmes](https://drive.google.com/file/d/1AHTusoP4iFacLxFLUWxg-H3TtVhB97Aj/view?usp=sharing)
 
-**“Décidément, on ne devrait jamais parler de “données” mais d’“obtenues” (Bruno Latour)** 
+Ainsi, nous avons focalisé notre travail sur l'accès aux données par l'utilisateur, et les choix qui ont été faits par l'éditeur, notamment en matière de catégorisation, ce qui est accessible pour nous puisque nous sommes nous mêmes utilisateurs de la base de données et utilisons ces catégories pour effectuer des recherches juridiques. 
 
 ## Les enjeux de la catégorisation juridique
+
+**“Décidément, on ne devrait jamais parler de “données” mais d’“obtenues” (Bruno Latour)** 
 
 Dans son étude sur le topofil, Bruno Latour explique que les difficultés de l’étude de la forêt se situent dans le fait que pour les étudier on détache les choses de leur milieu naturel, et “il arrive aux plantes des choses qui ne sont jamais arrivées depuis que le monde est monde”. On comprend alors que ce ne sont pas des “données”, mais des “obtenues”, puisque l’on extrait l’information d’un monde dans lequel elle existe normalement sans interférence. 
 
