@@ -13,7 +13,7 @@ Concernant l'histoire du groupe :
 
 Concernant la justice prédictive : 
 
-Lexweb, “la révolution de la justice prédictive”, http://www.lexweb.fr/la-revolution-de-la-justice-predictive-interview-du-fondateur-du-site-predictice/, LW [consulté le 2 novembre 2022]
+- Lexweb, “la révolution de la justice prédictive”, http://www.lexweb.fr/la-revolution-de-la-justice-predictive-interview-du-fondateur-du-site-predictice/, LW [consulté le 2 novembre 2022]
 
 - Predictice.com “Qu’est ce que la justice prédictive”, https://blog.predictice.com/quest-ce-que-la-justice-pr%C3%A9dictive - Pauline Bousch [consulté le 2 novembre 2022]
 
