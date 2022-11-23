@@ -4,6 +4,8 @@ title: Concurrence ou coopération ?
 subtitle: De quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
 ---
 
+Lors de notre entretien avec Héloïse Eloi-Hammer, nous avons eu l'occasion de parler de la concurrence dans le milieu des bases de données juridiques : [Lien vers l'extrait de l'interview avec Heloïse Eloi-Hammer sur la concurrence](https://drive.google.com/file/d/1hk0OKbLKaFOCN8BSbjB61Z5aKHahGDbg/view?usp=sharing)
+
 L’agrégation de données sur une base de données est une pratique qui remonte aux années 1990. De nos jours, cela ne suffit plus. Il faut non seulement agréger la donnée de manière intelligente (proposer les décisions les plus adéquates, des liens hypertextes vers thématiques ressemblantes…), mais également innover face au marché de Legaltech qui ne cesse de s’accroître. Il convient de se demander de quelle manière les legalechs, nouvellement arrivées sur le marché de la « justice numérique », trouvent leur place face aux éditeurs classiques tels que Francis Lefebvre ? 
 
 ## Qu’est-ce qu’une Legaltech ? 
